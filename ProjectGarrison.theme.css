@@ -64,7 +64,7 @@
   --background-primary: #D5E4F7;
   --channeltextarea-background: #CCDAEC;
   --background-accent: var(--accent);
-  --background-modifier-hover: #D5E4F7;
+  --background-modifier-hover: rgb(213, 214, 214);
   --background-modifier-active: #D5E4F7;
   --background-modifier-selected: var(--accent-selected);
   --deprecated-card-bg: #12141f63;
@@ -115,6 +115,14 @@
   background: var(--brand-experiment);
 }
 
+.scroller-kQBbkU::-webkit-scrollbar-track, .auto-2K3UW5::-webkit-scrollbar-track, .peopleColumn-1wMU14::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+.scroller-kQBbkU::-webkit-scrollbar-thumb, .auto-2K3UW5::-webkit-scrollbar-thumb, .thin-31rlnD::-webkit-scrollbar-thumb, .peopleColumn-1wMU14::-webkit-scrollbar-thumb {
+  background-color: var(--accent);
+}
+
+
 /* Sidebar "selected" Accents */
 .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG {
   background-color: var(--background-secondary) !important;
@@ -124,6 +132,85 @@
   color: var(--accent);
   text-align: center;
   transition: 0.9s;
+}
+
+.side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG {
+  background-color: var(--background-secondary) !important;
+  border: solid 2px;
+  border-radius: 18px;
+  border-color: var(--accent);
+  color: var(--accent);
+  text-align: center;
+  transition: 0.9s;
+}
+
+/*
+///////////////////////////////////////
+////////////// Some Chat shit
+//////////////////////////////////////
+*/
+
+.scrollableContainer-15eg7h, .hasConnectedBar-1vN2JH, .preview-QJ3OG3 {
+  border-radius: 0px;
+  border-left: solid 2px;
+  border-color: var(--accent);
+}
+
+.scrollableContainer-15eg7h:hover {
+  background-color: rgba(0, 0, 0, 0.09);
+}
+
+
+.embedFull-1HGV2S {
+  border-left: 4px solid var(--background-tertiary);
+  background: var(--background-secondary);
+}
+.grid-1aWVsE {
+  overflow: hidden;
+  padding: 0.5rem 1rem 1rem 0.75rem;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+}
+
+/*
+///////////////////////////////////////
+////////////// Settings
+//////////////////////////////////////
+*/
+
+.accountProfileCard-lbN7n-, .profileBannerPreview-3mLIdO {
+  background: #ffffffa3; 
+  border: 1px solid var(--surCordBorder); 
+  border-radius: 20px;
+}
+
+/*
+///////////////////////////////////////
+////////////// Title Bar
+//////////////////////////////////////
+*/
+
+.container-ZMc96U.themed-Hp1KC_, .header-3OsQeK{
+  background: #D5E4F7 !important; 
+  border-bottom: .5px solid rgba(186, 186, 186, 0.386);
+}
+  .communityInfoVisible-3zc5_s .header-3OsQeK, .communityInfoVisible-3zc5_s .header-3OsQeK:hover, .hasBanner-2IrYih .header-3OsQeK, .hasBanner-2IrYih .header-3OsQeK:hover {
+    border-bottom: .5px solid rgba(0, 0, 0, 0);
+    background-color: transparent !important;
+  }
+  .communityInfoPill-2Mll66 {
+      display: none;
+  }
+.children-3xh0VB:after {
+  background: rgba(0, 0, 0, 0);
+}
+  .title-17SveM {
+      font-weight: 750;
+      color: rgba(73, 73, 73);
+  }
+.clickable-ZD7xvu .icon-2xnN2Y {
+  color: rgba(115, 115, 115);
 }
 
 /*
@@ -151,6 +238,7 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
   text-transform: none !important;
   letter-spacing: 0.015em;
 }
+
 
 /*
 ///////////////////////////////////////

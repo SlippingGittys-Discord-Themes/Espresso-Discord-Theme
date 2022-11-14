@@ -1,4 +1,3 @@
-
 /**
  * @name Project Garrison
  * @author Vozer
@@ -65,11 +64,11 @@
   --background-primary: #D5E4F7;
   --channeltextarea-background: #CCDAEC;
   --background-accent: var(--accent);
-  --background-modifier-hover: rgb(213, 214, 214);
-  --background-modifier-active: rgb(231, 231, 231);
+  --background-modifier-hover: #D5E4F7;
+  --background-modifier-active: #D5E4F7;
   --background-modifier-selected: var(--accent-selected);
   --deprecated-card-bg: #12141f63;
-  --background-floating: rgba(236, 236, 236, 0.771);
+  --background-floating: #D5E4F7;
   --deprecated-quickswitcher-input-background: rgba(237, 237, 237);
   --elevation-low: none;
   --toast-background: #ffffff !important;

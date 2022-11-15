@@ -58,11 +58,11 @@
 }
 
 .theme-light {
-  --background-tertiary: #D5E4F7;
+  --background-tertiary: #CCDAEC;
   --background-secondary: #CCDAEC;
   --background-secondary-alt: #D5E4F7;
-  --background-primary: #D5E4F7;
-  --channeltextarea-background: #CCDAEC;
+  --background-primary: #CCDAEC;
+  --channeltextarea-background: #D5E4F7;
   --background-accent: var(--accent);
   --background-modifier-hover: rgb(213, 214, 214);
   --background-modifier-active: #D5E4F7;
@@ -116,7 +116,7 @@
 }
 
 .scroller-kQBbkU::-webkit-scrollbar-track, .auto-2K3UW5::-webkit-scrollbar-track, .peopleColumn-1wMU14::-webkit-scrollbar-track {
-  background-color: transparent;
+  background-color: var(--background-secondary-alt);
 }
 .scroller-kQBbkU::-webkit-scrollbar-thumb, .auto-2K3UW5::-webkit-scrollbar-thumb, .thin-31rlnD::-webkit-scrollbar-thumb, .peopleColumn-1wMU14::-webkit-scrollbar-thumb {
   background-color: var(--accent);
@@ -133,6 +133,19 @@
   text-align: center;
   transition: 0.9s;
 }
+
+
+/* sidebars */
+
+.panels-3wFtMD {
+  border-radius: 20px;
+  margin-bottom: 18px;
+  margin-right: 2px;
+  margin-left: 5px;
+  backdrop-filter: blur(10px);
+  border: 1.5px solid rgba(186, 186, 186, 0.386); 
+}
+
 
 .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG {
   background-color: var(--background-secondary) !important;

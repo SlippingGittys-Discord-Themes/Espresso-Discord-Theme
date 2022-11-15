@@ -2,7 +2,7 @@
  * @name Project Garrison
  * @author Vozer
  * @version 11.2022
- * @description A WIP, unfinished Material Design 3 inspired theme
+ * @description A theme to make as I quell my boredom.
  * @source https://github.com/SlippingGittys-Discord-Themes
  * @website https://slippinggitty.github.io/
 */
@@ -210,23 +210,48 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 }
 .icon-2W8DHg, .modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ {
   color: var(--accent-selected);
-  border-radius: 0px 15px 15px 0px;
+  -webkit-text-fill-color: white;
+  border-radius: 0px 15px 15px 15px;
 }
 .modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ {
-  background-color: var(--accent-selected) !important;
+  background-color: var(--accent) !important;
 }
 
+.addButtonIcon-3rJeaD,
+.modeUnread-3Cxepe .icon-2W8DHg,
+.unreadRelevant-2f-VSK {
+  color: var(--accent) !important;
+}
+
+.modeConnected-NrO4cP .name-28HaxV,
+.modeConnected-NrO4cP:hover .name-28HaxV,
+.modeSelected-3DmyhH .name-28HaxV,
+.modeSelected-3DmyhH:hover .name-28HaxV,
+.modeUnread-3Cxepe .name-28HaxV,
+.modeUnread-3Cxepe:hover .name-28HaxV,
+.notInteractive-2tFrlE.modeConnected-NrO4cP .name-28HaxV,
+.notInteractive-2tFrlE.modeSelected-3DmyhH .name-28HaxV {
+  color: var(--accent) !important;
+}
+.modeSelected-3DmyhH .icon-2W8DHg,
+.modeSelected-3DmyhH:hover .icon-2W8DHg,
+.modeUnread-3Cxepe .icon-2W8DHg,
+.modeUnread-3Cxepe:hover .icon-2W8DHg,
+.mainContent-uDGa6R .overflow-1wOqNV,
+.mainContent-uDGa6R {
+  color: var(--accent) !important;
+}
 
 .expandedFolderBackground-1kSAf6 {
   box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
     border-radius: 15px;
 }
-.closedFolderIconWrapper-3tRb2d {
+.closedFolderIconWrapper-3tRb2d:hover {
     backdrop-filter: blur(20px);
     box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
-    border: 1px solid rgb(186, 186, 186);
     border-radius: 60px;
     background: rgba(207, 222, 222, 0.276);
+    transition: 0.3s;
 }
 .expandedFolderBackground-1kSAf6.collapsed-uGXEbi,
 .expandedFolderBackground-1kSAf6.collapsed-uGXEbi.hover-3m7-WT {
@@ -244,11 +269,20 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 }
 .circleIconButton-1VxDrg {
     background: var(--background-secondary-alt) !important;
-    box-shadow: 0px 2px 1px 0px rgba(0, 0, 0, 0.198);
     backdrop-filter: blur(20px);
     border: 1px solid rgb(186, 186, 186);
     border-radius: 30px;
     color: var(--accent-selected);
+    transition: 0.5s;
+}
+.circleIconButton-1VxDrg:hover {
+  background: var(--background-secondary-alt) !important;
+  box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.198);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgb(186, 186, 186);
+  border-radius: 30px;
+  color: var(--accent-selected);
+  transition: 0.5s;
 }
 .circleIconButton-1VxDrg:hover {
     background: rgba(99, 81, 199, 0.276);
@@ -296,7 +330,8 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 }
 
 .messageContainer-3VTXBC {
-  box-shadow: 3px 5px 10px 1px rgba(0, 0, 0, 0.54);
+  border: solid var(--accent);
+  border-radius: 15px;
 }
 
 /*

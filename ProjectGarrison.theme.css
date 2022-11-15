@@ -165,7 +165,7 @@
 
 .scrollableContainer-15eg7h, .hasConnectedBar-1vN2JH, .preview-QJ3OG3 {
   border-radius: 0px;
-  border-left: solid 2px;
+  border-bottom: solid 2px;
   border-color: var(--accent);
 }
 
@@ -205,7 +205,7 @@
 */
 
 .container-ZMc96U.themed-Hp1KC_, .header-3OsQeK{
-  background: #D5E4F7 !important; 
+  background: var(--background-secondary-alt) !important; 
   border-bottom: .5px solid rgba(186, 186, 186, 0.386);
 }
   .communityInfoVisible-3zc5_s .header-3OsQeK, .communityInfoVisible-3zc5_s .header-3OsQeK:hover, .hasBanner-2IrYih .header-3OsQeK, .hasBanner-2IrYih .header-3OsQeK:hover {

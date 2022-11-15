@@ -2,7 +2,7 @@
  * @name Project Garrison
  * @author Vozer
  * @version 11.2022
- * @description A theme to make as I quell my boredom.
+ * @description A WIP, unfinished Material Design 3 inspired theme
  * @source https://github.com/SlippingGittys-Discord-Themes
  * @website https://slippinggitty.github.io/
 */
@@ -338,6 +338,16 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
   }
 .clickable-ZD7xvu .icon-2xnN2Y {
   color: rgba(115, 115, 115);
+}
+
+.searchBar-3TnChZ .searchBarComponent-3N7dCG {
+  background: var(--background-secondary-alt) !important; 
+  border-radius: 15px;
+}
+
+.full-motion .searchBar-jGtisZ {
+  background: var(--background-secondary) !important; 
+  border-radius: 10px;
 }
 
 /*

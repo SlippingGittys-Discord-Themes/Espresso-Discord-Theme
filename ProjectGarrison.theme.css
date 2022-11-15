@@ -103,6 +103,17 @@
   border-radius: 10px;
   transition: 0.3s;
 }
+.clickable-ZD7xvu .icon-2xnN2Y,
+.linkButtonIcon-7rsZcu {
+  color: var(--accent) !important;
+}
+.iconWrapper-2awDjA .icon-2xnN2Y,
+.stickerIcon-3Jx5SE,
+.icon-1d5zch,
+.circleIcon-3489FI,
+.buttonWrapper-3YFQGJ {
+  color: var(--accent);
+}
 
 /*
 ///////////////////////////////////////
@@ -121,7 +132,10 @@
 .scroller-kQBbkU::-webkit-scrollbar-thumb, .auto-2K3UW5::-webkit-scrollbar-thumb, .thin-31rlnD::-webkit-scrollbar-thumb, .peopleColumn-1wMU14::-webkit-scrollbar-thumb {
   background-color: var(--accent);
 }
-
+.scroller-kQBbkU::-webkit-scrollbar-thumb:hover, .auto-2K3UW5::-webkit-scrollbar-thumb:hover, .thin-31rlnD::-webkit-scrollbar-thumb:hover, .peopleColumn-1wMU14::-webkit-scrollbar-thumb:hover {
+  background-color: var(--accent);
+  box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.198);
+}
 
 /* Sidebar "selected" Accents */
 .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .interactiveSelected-29CP8y {
@@ -178,6 +192,46 @@
 }
 
 
+.expandedFolderBackground-1kSAf6 {
+  box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
+    border-radius: 15px;
+}
+.closedFolderIconWrapper-3tRb2d {
+    backdrop-filter: blur(20px);
+    box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
+    border: 1px solid rgb(186, 186, 186);
+    border-radius: 60px;
+    background: rgba(207, 222, 222, 0.276);
+}
+.expandedFolderBackground-1kSAf6.collapsed-uGXEbi,
+.expandedFolderBackground-1kSAf6.collapsed-uGXEbi.hover-3m7-WT {
+    display: none;
+}
+.folder-241Joy,
+.folder-241Joy:hover {
+    background-color: #00000000;
+}
+.item-2LIpTv {
+    width: 8px;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 0px;
+    background-color: rgb(145, 138, 152);
+}
+.circleIconButton-1VxDrg {
+    background: var(--background-secondary-alt) !important;
+    box-shadow: 0px 2px 1px 0px rgba(0, 0, 0, 0.198);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgb(186, 186, 186);
+    border-radius: 30px;
+    color: var(--accent-selected);
+}
+.circleIconButton-1VxDrg:hover {
+    background: rgba(99, 81, 199, 0.276);
+    color: var(--accent-selected);
+}
+
+
+
 /*
 ///////////////////////////////////////
 ////////////// Some Chat shit
@@ -207,12 +261,17 @@
   grid-template-rows: auto;
 }
 
-
 .newMessagesBar-1hF-9G {
   margin-top: 10px;
-  border-radius: 10px;
-  background-color: #2c0000;
+  margin-left: 190px;
+  margin-right: 190px;
+  border-radius: 3px;
+  background-color: #191365;
   box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.54);
+}
+
+.messageContainer-3VTXBC {
+  box-shadow: 3px 5px 10px 1px rgba(0, 0, 0, 0.54);
 }
 
 /*

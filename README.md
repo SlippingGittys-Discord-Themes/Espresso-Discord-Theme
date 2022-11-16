@@ -1,8 +1,7 @@
 <h1 align="center"> Project Garrison </h1>
 <p align="center"> Project Garrison is a WIP, unfinished Material Design v3 >inspired< theme </p>
 
-![Screenshot from 2022-11-15 16-40-39](https://user-images.githubusercontent.com/76500838/202031022-b20c0a71-5b86-477f-9598-879bb8833f2a.png)
-
+![image](https://user-images.githubusercontent.com/76500838/202074577-2caafda0-30fb-4409-9eee-7f2e4e97e2bd.png)
 
 
 # ⚠️ WARNING ⚠️

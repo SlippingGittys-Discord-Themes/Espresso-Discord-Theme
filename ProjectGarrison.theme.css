@@ -134,6 +134,11 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 .linkButtonIcon-7rsZcu {
   color: var(--accent) !important;
 }
+.clickable-ZD7xvu .icon-2xnN2Y:hover,
+.linkButtonIcon-7rsZcu:hover {
+  margin-top: 2px;
+  transition: .5s;
+}
 .iconWrapper-2awDjA .icon-2xnN2Y,
 .stickerIcon-3Jx5SE,
 .icon-1d5zch,
@@ -162,6 +167,7 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 .scroller-kQBbkU::-webkit-scrollbar-thumb:hover, .auto-2K3UW5::-webkit-scrollbar-thumb:hover, .thin-31rlnD::-webkit-scrollbar-thumb:hover, .peopleColumn-1wMU14::-webkit-scrollbar-thumb:hover {
   background-color: var(--accent);
   box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.198);
+  transition: .5s;
 }
 
 /* Sidebar "selected" Accents */

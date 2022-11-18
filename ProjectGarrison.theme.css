@@ -182,12 +182,13 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
   margin-bottom: 15px;
 }
 .scroller-kQBbkU::-webkit-scrollbar-track, .auto-2K3UW5::-webkit-scrollbar-track, .peopleColumn-1wMU14::-webkit-scrollbar-track {
-  box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.198);
+  box-shadow: inset 0px 0px 3px 1px rgba(0, 0, 0, 0.198);
 }
 .scroller-kQBbkU::-webkit-scrollbar-thumb, .auto-2K3UW5::-webkit-scrollbar-thumb, .thin-31rlnD::-webkit-scrollbar-thumb, .peopleColumn-1wMU14::-webkit-scrollbar-thumb {
   background-color: var(--accent);
-  box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.198);
+  border: solid var(--background-secondary-alt) 3px;
   transition: .5s;
+  box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
 }
 .scroller-kQBbkU::-webkit-scrollbar-thumb:hover, .auto-2K3UW5::-webkit-scrollbar-thumb:hover, .thin-31rlnD::-webkit-scrollbar-thumb:hover, .peopleColumn-1wMU14::-webkit-scrollbar-thumb:hover {
   background-color: var(--accent);
@@ -246,7 +247,7 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
   border-radius: 0px 15px 15px 15px;
 }
 .modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ {
-  box-shadow: inset 3px 3px 3px 5px rgba(0, 0, 0, 0.198);
+  box-shadow: inset 3px 3px 5px 5px rgba(0, 0, 0, 0.198);
   background-color:rgba(0, 0, 0, 0);
 }
 .content-1gYQeQ:hover  {

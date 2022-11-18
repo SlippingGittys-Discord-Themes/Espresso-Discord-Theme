@@ -376,12 +376,13 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 }
 
 .members-3WRCEx {
-  margin-top: 8px;
-  margin-left: 5px;
-  margin-right: 8px;
-  margin-bottom: 8px;
-  box-shadow: inset 3px 3px 10px 2px rgba(0, 0, 0, 0.198);
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 15px;
+  margin-bottom: 10px;
+  box-shadow: inset 3px 3px 10px 4px rgba(0, 0, 0, 0.198);
   border-radius: 5px;
+  background-color: var(--background-floating);
 }
 
 .member-48YF_l {

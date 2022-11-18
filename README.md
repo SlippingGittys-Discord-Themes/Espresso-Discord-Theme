@@ -1,7 +1,8 @@
 <h1 align="center"> Project Garrison </h1>
 <p align="center"> Project Garrison is a WIP theme </p>
 
-![image](https://user-images.githubusercontent.com/76500838/202074577-2caafda0-30fb-4409-9eee-7f2e4e97e2bd.png)
+![image](https://user-images.githubusercontent.com/76500838/202774031-24eee76d-3fed-4529-a435-dd3e0b5f276e.png)
+
 
 ## What is this theme? 🤔
 Honestly, even I'm still trying to figure this out! 💀 Clearly there is a direct insperation from Material Design v3... Material Symbols & Product Sans and all, but I'm being a little liberal with shadows and shapes as well. I honestly don't know what I desire from this theme. Just something soft on the eyes, and plenty of room for user hackability. I'll work on constructing that part later. 
@@ -15,5 +16,5 @@ Holy cow, this theme is NOT finished. Not only is it unfinished, it just sucks. 
 
 ## How to use 📖
 
-#### Use a Discord modification such as [Vencord](https://github.com/Vendicated/Vencord) or [Openasar](https://openasar.dev/) that allows for CSS injection
+#### Use a Discord modification such as [Vencord](https://github.com/Vendicated/Vencord), [Openasar](https://openasar.dev/), or [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) that allows for CSS injection
 

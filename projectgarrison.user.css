@@ -1,0 +1,17 @@
+@-moz-document domain("discord.com") {
+    /* ==UserStyle==
+    @name         ProjectGarrison
+    @description  A soft and fluffy Discord theme
+    @author       Vozer
+    @namespace    https://github.com/SlippingGittys-Discord-Themes/ProjectGarrison
+    @version      1.0.0
+    ==/UserStyle== */
+  
+/*
+-----------Source---------
+> This is the core of the entire theme
+> It is essential that you do not touch this url, unless you know what you are doing.
+*/
+@import url('https://slippinggittys-discord-Themes.github.io/ProjectGarrison/ProjectGarrison.theme.css');
+
+}

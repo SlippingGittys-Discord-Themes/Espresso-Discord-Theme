@@ -2,8 +2,8 @@
  * @name Project Garrison
  * @author Vozer
  * @version 11.2022
- * @description A soft and fluffy Discord theme.
- * @source https://github.com/SlippingGittys-Discord-Themes/ProjectGarrison
+ * @description A theme to make as I quell my boredom.
+ * @source https://github.com/SlippingGittys-Discord-Themes
  * @website https://slippinggitty.github.io/
 */
 
@@ -178,13 +178,19 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 
 .scroller-kQBbkU::-webkit-scrollbar-track, .auto-2K3UW5::-webkit-scrollbar-track, .peopleColumn-1wMU14::-webkit-scrollbar-track {
   background-color: var(--background-secondary-alt);
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.scroller-kQBbkU::-webkit-scrollbar-track, .auto-2K3UW5::-webkit-scrollbar-track, .peopleColumn-1wMU14::-webkit-scrollbar-track {
+  box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.198);
 }
 .scroller-kQBbkU::-webkit-scrollbar-thumb, .auto-2K3UW5::-webkit-scrollbar-thumb, .thin-31rlnD::-webkit-scrollbar-thumb, .peopleColumn-1wMU14::-webkit-scrollbar-thumb {
   background-color: var(--accent);
+  box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.198);
+  transition: .5s;
 }
 .scroller-kQBbkU::-webkit-scrollbar-thumb:hover, .auto-2K3UW5::-webkit-scrollbar-thumb:hover, .thin-31rlnD::-webkit-scrollbar-thumb:hover, .peopleColumn-1wMU14::-webkit-scrollbar-thumb:hover {
   background-color: var(--accent);
-  box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.198);
   transition: .5s;
 }
 
@@ -279,14 +285,11 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 }
 
 .expandedFolderBackground-1kSAf6 {
-  box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
+  box-shadow: inset 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
     border-radius: 15px;
 }
 .closedFolderIconWrapper-3tRb2d:hover {
-    backdrop-filter: blur(20px);
-    box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
-    border-radius: 60px;
-    background: rgba(207, 222, 222, 0.276);
+    box-shadow: inset 10px 10px 5px 1px rgba(0, 0, 0, 0.198);
     transition: 0.3s;
 }
 .expandedFolderBackground-1kSAf6.collapsed-uGXEbi,
@@ -312,17 +315,13 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
     transition: 0.5s;
 }
 .circleIconButton-1VxDrg:hover {
-  background: var(--background-secondary-alt) !important;
-  box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.198);
-  backdrop-filter: blur(20px);
+  background: rgba(99, 81, 199, 0.276);
+  box-shadow: inset 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
+  transition: 0.3s;
   border: 1px solid rgb(186, 186, 186);
   border-radius: 30px;
   color: var(--accent-selected);
   transition: 0.5s;
-}
-.circleIconButton-1VxDrg:hover {
-    background: rgba(99, 81, 199, 0.276);
-    color: var(--accent-selected);
 }
 
 
@@ -351,17 +350,13 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 .grid-1aWVsE {
   overflow: hidden;
   padding: 0.5rem 1rem 1rem 0.75rem;
-  display: grid;
-  grid-template-columns: auto;
-  grid-template-rows: auto;
 }
 
 .newMessagesBar-1hF-9G {
   margin-top: 10px;
-  margin-left: 190px;
-  margin-right: 190px;
-  border-radius: 3px;
-  background-color: #191365;
+  margin-right: 100px;
+  border-radius: 5px;
+  background-color: var(--accent);
   box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.54);
 }
 
@@ -481,7 +476,13 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 .searchBar-3TnChZ .searchBarComponent-3N7dCG {
   background: var(--background-secondary-alt) !important; 
   border-radius: 15px;
-  box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.198);
+  box-shadow: inset 0px 5px 5px 1px rgba(0, 0, 0, 0.198);
+}
+.searchBar-3TnChZ .searchBarComponent-3N7dCG:hover {
+  background: var(--background-secondary-alt) !important; 
+  border-radius: 15px;
+  box-shadow: 0px 5px 5px 1px rgba(0, 0, 0, 0.198);
+  transition: .5s;
 }
 
 .full-motion .searchBar-jGtisZ {

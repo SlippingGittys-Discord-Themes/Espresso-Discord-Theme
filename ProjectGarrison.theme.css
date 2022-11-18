@@ -191,10 +191,7 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 /* Sidebar "selected" Accents */
 .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .interactiveSelected-29CP8y {
   background-color: var(--background-secondary) !important;
-  border: solid 1.5px;
-  border-radius: 18px;
-  border-color: var(--accent);
-  color: var(--accent);
+  box-shadow: inset 3px 3px 3px 3px rgba(0, 0, 0, 0.198);
   text-align: center;
   transition: 0.5s;
 }
@@ -240,12 +237,11 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 }
 .icon-2W8DHg, .modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ {
   color: var(--accent-selected);
-  -webkit-text-fill-color: white;
   border-radius: 0px 15px 15px 15px;
 }
 .modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ {
-  background-color: var(--accent) !important;
-  transition: 0.3s;
+  box-shadow: inset 3px 3px 3px 5px rgba(0, 0, 0, 0.198);
+  background-color:rgba(0, 0, 0, 0);
 }
 .content-1gYQeQ:hover  {
   box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
@@ -374,6 +370,55 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
   border-radius: 15px;
 }
 
+.gridContainer-1cF_Ic {
+  box-shadow: inset 3px 3px 3px 2px rgba(0, 0, 0, 0.198);
+  border-radius: 5px;
+}
+
+.members-3WRCEx {
+  margin-top: 8px;
+  margin-left: 5px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  box-shadow: inset 3px 3px 10px 2px rgba(0, 0, 0, 0.198);
+  border-radius: 5px;
+}
+
+.member-48YF_l {
+  background-color: #00000000;
+}
+
+.member-48YF_l:hover {
+  background-color: #00000000;
+  box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
+  transition: 0.3s;
+  margin-right: 5px;
+}
+
+/*
+////////////////////////
+////Friends List 
+////////////////////////
+*/
+
+.peopleListItem-u6dGxF {
+  backdrop-filter: blur(20px);
+  border: 0px solid;
+  border-radius: 5px;
+  margin-bottom: 13px;
+  margin-top: 13px;
+  padding-left: 10px;
+}
+
+.peopleListItem-u6dGxF:hover {
+  backdrop-filter: blur(20px);
+  box-shadow: inset 0px 3px 3px 5px rgba(0, 0, 0, 0.198);
+  transition: 0.3s;
+  border-radius: 5px;
+  margin-bottom: 13px;
+  margin-top: 13px;
+}
+
 /*
 ///////////////////////////////////////
 ////////////// Settings
@@ -382,7 +427,6 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 
 .accountProfileCard-lbN7n-, .profileBannerPreview-3mLIdO {
   background: #ffffffa3; 
-  border: 1px solid var(--surCordBorder); 
   border-radius: 20px;
 }
 
@@ -442,5 +486,12 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 .full-motion .searchBar-jGtisZ {
   background: var(--background-secondary) !important; 
   border-radius: 10px;
+  box-shadow: inset 0px 1px 1px 1px rgba(0, 0, 0, 0.198);
+}
+
+.full-motion .searchBar-jGtisZ:hover {
+  background: var(--background-secondary) !important; 
+  border-radius: 10px;
   box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.198);
+  transition: 0.3s;
 }

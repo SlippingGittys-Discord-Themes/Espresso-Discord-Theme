@@ -183,6 +183,10 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
   box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
   transition: 0.3s;
 }
+.mainContent-20q_Hp:hover {
+  box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
+  transition: 0.3s;
+}
 
 /*
 ///////////////////////////////////////
@@ -220,6 +224,16 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 }
 .modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ {
   background-color: var(--accent) !important;
+  transition: 0.3s;
+}
+.content-1gYQeQ:hover  {
+  box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
+  border-radius: 0px 15px 15px 15px;
+  margin-right: 2px;
+  transition: 0.3s;
+}
+.mainContent-20q_Hp:hover {
+  box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0);
 }
 
 .addButtonIcon-3rJeaD,
@@ -357,10 +371,28 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 //////////////////////////////////////
 */
 
-.container-ZMc96U.themed-Hp1KC_, .header-3OsQeK{
+.container-ZMc96U.themed-Hp1KC_ {
   background: var(--background-secondary-alt) !important; 
   border-bottom: .5px solid rgba(186, 186, 186, 0.386);
-  box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
+  border-radius: 5px 0px 0px 5px;
+  box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.header-3OsQeK {
+  background: var(--background-secondary-alt) !important; 
+  border-bottom: .5px solid rgba(186, 186, 186, 0.386);
+  box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 5px 5px 5px 5px;
+}
+.animatedContainer-2laTjx, .bannerImage-ubW8K- {
+  border-radius: 5px 5px 5px 5px;
+  margin-right: 5px;
+  margin-right: 5px;
 }
   .communityInfoVisible-3zc5_s .header-3OsQeK, .communityInfoVisible-3zc5_s .header-3OsQeK:hover, .hasBanner-2IrYih .header-3OsQeK, .hasBanner-2IrYih .header-3OsQeK:hover {
     border-bottom: .5px solid rgba(0, 0, 0, 0);
@@ -383,10 +415,9 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 .searchBar-3TnChZ .searchBarComponent-3N7dCG {
   background: var(--background-secondary-alt) !important; 
   border-radius: 15px;
+  box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.198);
 }
 
-.searchBar-3TnChZ:hover .searchBarComponent-3N7dCG:hover {
-}
 .full-motion .searchBar-jGtisZ {
   background: var(--background-secondary) !important; 
   border-radius: 10px;

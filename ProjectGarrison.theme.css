@@ -47,10 +47,10 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 * {
   --font-primary: Product Sans;
   --font-display: Product Sans;
-  --font-headline: Product Sans
+  --font-headline: Product Sans;
   text-rendering: optimizeLegibility;
   text-transform: none !important;
-  letter-spacing: 0.015em;
+  text-shadow: 1px 1px 5px #0000002f !important;
 }
 code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .after_inlineCode-2_JXPm, .before_inlineCode-1zngJj, .inlineCode-ERyvy_ {
   font-family: mono, monospace;
@@ -62,10 +62,14 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 //////////////////////////////////////
 */
 
+/*   --PGBackground: #CCDAEC;
+  --PGBackground2: #D5E4F7;
+  --PGTextBackground: #D5E4F7; */
+
 :root {
-  --PGBackground: #0a0d1c;
-  --PGBackground2: #0c1021;
-  --PGTextBackground: rgb(0, 0, 0);
+  --PGBackground: #EFDDF5;
+  --PGBackground2: #E9D5F1;
+  --PGTextBackground: #E9D5F1;
   --PGFriendsBackground: rgb(0, 0, 0);
   --PGFriends: rgb(0, 0, 0);
   --PGActiveNow: rgb(33, 2, 1, .276);
@@ -81,39 +85,19 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 }
 
 /* Color Pallete */
-.theme-dark {
-  --background-tertiary: var(--PGBackground2);
-  --background-secondary: var(--PGBackground2);
+
+.theme-light {
+  --background-tertiary: var(--PGBackground);
+  --background-secondary: var(--PGBackground);
   --background-secondary-alt: var(--PGBackground2);
   --background-primary: var(--PGBackground);
   --channeltextarea-background: var(--PGTextBackground);
   --background-accent: var(--accent);
-  --background-modifier-hover: var(--PGHover);
-  --background-modifier-active: rgb(30, 30, 30);
+  --background-modifier-hover: var(--PGBackground2);
+  --background-modifier-active: var(--PGBackground2);
   --background-modifier-selected: var(--accent-selected);
   --deprecated-card-bg: #12141f63;
-  --background-floating: rgba(35, 35, 35, 0.771);
-  --deprecated-quickswitcher-input-background: #101320;
-  --elevation-low: none;
-  --toast-background: #000000 !important;
-  --toast-header: #000000 !important;
-  --toast-contents: #000000 !important;
-  --brand-experiment-500: var(--accent-selected);
-  --brand-experiment-560: var(--accent-selected);
-}
-
-.theme-light {
-  --background-tertiary: #CCDAEC;
-  --background-secondary: #CCDAEC;
-  --background-secondary-alt: #D5E4F7;
-  --background-primary: #CCDAEC;
-  --channeltextarea-background: #D5E4F7;
-  --background-accent: var(--accent);
-  --background-modifier-hover: #D5E4F7;
-  --background-modifier-active: #D5E4F7;
-  --background-modifier-selected: var(--accent-selected);
-  --deprecated-card-bg: #12141f63;
-  --background-floating: #D5E4F7;
+  --background-floating: var(--PGBackground2);
   --deprecated-quickswitcher-input-background: rgba(237, 237, 237);
   --elevation-low: none;
   --toast-background: #ffffff !important;
@@ -341,6 +325,7 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 
 .scrollableContainer-15eg7h:hover {
   background-color: rgba(0, 0, 0, 0.09);
+  transition: .3s;
 }
 
 

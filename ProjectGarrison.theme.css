@@ -140,6 +140,8 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 .linkButtonIcon-7rsZcu:hover {
   margin-top: 2px;
   transition: .5s;
+  box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
+  border-radius: 5px
 }
 .iconWrapper-2awDjA .icon-2xnN2Y,
 .stickerIcon-3Jx5SE,
@@ -318,15 +320,14 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 */
 
 .scrollableContainer-15eg7h, .hasConnectedBar-1vN2JH, .preview-QJ3OG3 {
-  border-radius: 0px;
   border-bottom: solid 1px;
   border-color: var(--accent);
+  box-shadow: inset 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
 }
 
 .scrollableContainer-15eg7h:hover {
-  background-color: rgba(0, 0, 0, 0.09);
   transition: .3s;
-  box-shadow: inset 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
+  box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
 }
 
 
@@ -362,7 +363,7 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
   margin-left: 10px;
   margin-right: 15px;
   margin-bottom: 10px;
-  box-shadow: inset 3px 3px 10px 4px rgba(0, 0, 0, 0.198);
+  box-shadow: inset 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
   border-radius: 5px;
   background-color: var(--background-floating);
 }
@@ -463,7 +464,7 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 .searchBar-3TnChZ .searchBarComponent-3N7dCG {
   background: var(--background-secondary-alt) !important; 
   border-radius: 15px;
-  box-shadow: inset 0px 5px 5px 1px rgba(0, 0, 0, 0.198);
+  box-shadow: inset 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
 }
 .searchBar-3TnChZ .searchBarComponent-3N7dCG:hover {
   background: var(--background-secondary-alt) !important; 

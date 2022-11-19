@@ -319,13 +319,14 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 
 .scrollableContainer-15eg7h, .hasConnectedBar-1vN2JH, .preview-QJ3OG3 {
   border-radius: 0px;
-  border-bottom: solid 2px;
+  border-bottom: solid 1px;
   border-color: var(--accent);
 }
 
 .scrollableContainer-15eg7h:hover {
   background-color: rgba(0, 0, 0, 0.09);
   transition: .3s;
+  box-shadow: inset 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
 }
 
 

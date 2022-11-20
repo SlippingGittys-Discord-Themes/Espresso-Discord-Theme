@@ -412,6 +412,7 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 .accountProfileCard-lbN7n-, .profileBannerPreview-3mLIdO {
   background: #ffffffa3; 
   border-radius: 20px;
+  box-shadow: inset 0px 3px 3px 5px rgba(0, 0, 0, 0.198);
 }
 
 /*

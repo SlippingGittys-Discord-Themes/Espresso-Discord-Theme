@@ -64,7 +64,10 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 
 /*   --PGBackground: #CCDAEC;
   --PGBackground2: #D5E4F7;
-  --PGTextBackground: #D5E4F7; */
+  --PGTextBackground: #D5E4F7; 
+    --accent-hover: rgba(0, 98, 157, 0.977);
+  --accent-selected: rgb(0, 98, 157, 0.612);
+  --accent-focused: rgb(0, 98, 157, 0.2);*/
 
 :root {
   --PGBackground: #EFDDF5;
@@ -78,10 +81,14 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
   --PGSearch: rgb(53, 14, 12);
   --PGHover: rgba(152, 29, 22, 0.200);
   --PGBorder: rgb(78,78,81);
-  --accent: rgb(0, 98, 157);
-  --accent-hover: rgba(0, 98, 157, 0.977);
-  --accent-selected: rgb(0, 98, 157, 0.612);
-  --accent-focused: rgb(0, 98, 157, 0.2);
+  --accent: rgb(167, 59, 255);
+  --accent-hover: rgba(167, 59, 255, 0.977);
+  --accent-selected: rgb(167, 59, 255, 0.612);
+  --accent-focused: rgb(167, 59, 255, 0.2);
+}
+
+.penis {
+  color: rgb(220, 182, 233);
 }
 
 /* Color Pallete */
@@ -183,16 +190,19 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 
 /* Sidebar "selected" Accents */
 .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .interactiveSelected-29CP8y {
-  background-color: var(--background-secondary) !important;
-  box-shadow: inset 3px 3px 3px 3px rgba(0, 0, 0, 0.198);
+  background-color: rgba(0, 0, 0, 0.039) !important;
+  border-left: solid 1px var(--accent);
   text-align: center;
   transition: 0.5s;
+  border-radius: 1px;
 }
 
 .channel-1Shao0:hover {
   margin-left: 5px;
+  border-left: solid 1px var(--accent);
   box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
   transition: 0.3s;
+  border-radius: 1px;
 }
 .mainContent-20q_Hp:hover {
   box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
@@ -233,12 +243,13 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
   border-radius: 0px 15px 15px 15px;
 }
 .modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ {
-  box-shadow: inset 3px 3px 5px 5px rgba(0, 0, 0, 0.198);
-  background-color:rgba(0, 0, 0, 0);
+  border-left: var(--accent) 1px solid;
+  border-radius: 1px;
+  background-color:rgba(0, 0, 0, 0.033);
 }
 .content-1gYQeQ:hover  {
-  box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
-  border-radius: 0px 15px 15px 15px;
+  border-left: var(--accent) 1px solid;
+  border-radius: 1px;
   margin-right: 2px;
   transition: 0.3s;
 }
@@ -322,7 +333,7 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 .scrollableContainer-15eg7h, .hasConnectedBar-1vN2JH, .preview-QJ3OG3 {
   border-bottom: solid 1px;
   border-color: var(--accent);
-  box-shadow: inset 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
+  border-radius: 1px;
 }
 
 .scrollableContainer-15eg7h:hover {
@@ -348,14 +359,28 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
   box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.54);
 }
 
-.messageContainer-3VTXBC {
-  border: solid var(--accent);
-  border-radius: 15px;
+.messageContainer-3VTXBC, .messageContainer-8dSNjf, .container-rZM65Y, .messageGroupWrapper-1jf_7C {
+  border-left: solid 2px var(--accent);
+  border-radius: 1px;
+  background-color: var(--background-modifier-hover);
+}
+
+.messageContainer-3VTXBC:hover, .messageContainer-8dSNjf:hover, .container-rZM65Y:hover, .messageGroupWrapper-1jf_7C:hover {
+  border-left: solid px var(--accent);
+  margin-left: 5px;
+  border-radius: 1px;
+  background-color: var(--background-modifier-hover);
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.198);
+  transition: 0.3s;
 }
 
 .gridContainer-1cF_Ic {
-  box-shadow: inset 3px 3px 3px 2px rgba(0, 0, 0, 0.198);
-  border-radius: 5px;
+  box-shadow: inset  1px 1px 3px 2px rgba(0, 0, 0, 0.198);
+  border-radius: 1px;
+}
+
+.message-accessories-1045541717920727060 {
+  display: none;
 }
 
 .members-3WRCEx {
@@ -363,8 +388,7 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
   margin-left: 10px;
   margin-right: 15px;
   margin-bottom: 10px;
-  box-shadow: inset 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
-  border-radius: 5px;
+  border-right: solid 1px var(--accent);
   background-color: var(--background-floating);
 }
 
@@ -374,9 +398,11 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 
 .member-48YF_l:hover {
   background-color: #00000000;
-  box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
+  border-left: solid 1px var(--accent);
   transition: 0.3s;
   margin-right: 5px;
+  border-radius: 1px;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.198);
 }
 
 /*
@@ -425,7 +451,7 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
   background: var(--background-secondary-alt) !important; 
   border-bottom: .5px solid rgba(186, 186, 186, 0.386);
   border-radius: 5px 0px 0px 5px;
-  box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.198);
   margin-top: 5px;
   margin-left: 5px;
   margin-right: 5px;
@@ -433,7 +459,7 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 .header-3OsQeK {
   background: var(--background-secondary-alt) !important; 
   border-bottom: .5px solid rgba(186, 186, 186, 0.386);
-  box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.198);
   margin-top: 5px;
   margin-left: 5px;
   margin-right: 5px;

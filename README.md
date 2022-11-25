@@ -1,7 +1,7 @@
 <h1 align="center"> Project Garrison </h1>
 <p align="center"> Project Garrison is a WIP theme </p>
 
-![image](https://user-images.githubusercontent.com/76500838/203897460-4f75b67c-66fb-451e-9a52-ceac9d662639.png)
+![image](https://user-images.githubusercontent.com/76500838/203900189-fc54bc09-19a5-4e82-95a3-1f25820c96d9.png)
 
 
 ## What is this theme? 🤔

@@ -1,5 +1,5 @@
 <h1 align="center"> Project Garrison </h1>
-<p align="center"> Project Garrison is a WIP theme </p>
+<p align="center"> A Soft and Fluffy Discord Theme </p>
 
 ![image](https://user-images.githubusercontent.com/76500838/203900189-fc54bc09-19a5-4e82-95a3-1f25820c96d9.png)
 ![Screenshot 2022-12-02 at 4 56 29 PM](https://user-images.githubusercontent.com/76500838/205403331-61df8a63-9e85-4a64-a3ca-4187cd6ca85c.png)

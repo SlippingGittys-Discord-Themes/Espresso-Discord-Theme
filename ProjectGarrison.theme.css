@@ -34,8 +34,21 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 /* Emoji */
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Google.css");
+
 /* Material Symbols */
 @import url("https://slippinggitty-s-discord-things.github.io/Discord-MaterialSymbols-Icons/producticons.theme.css");
+
+/*
+///////////////////////////////////////
+////////////// Themes
+//////////////////////////////////////
+*/
+
+/* Light */
+@import url('https://slippinggittys-discord-Themes.github.io/ProjectGarrison/themes/light/turquoise.css');
+
+/* Dark */
+@import url('https://slippinggittys-discord-Themes.github.io/ProjectGarrison/themes/dark/tokyonight.css');
 
 /* Fonts */
 @font-face {
@@ -53,71 +66,6 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .after_inlineCode-2_JXPm, .before_inlineCode-1zngJj, .inlineCode-ERyvy_ {
   font-family: mono, monospace;
 }
-
-/*
-///////////////////////////////////////
-////////////// Colors
-//////////////////////////////////////
-*/
-
-/*   Green
---PGBackground: #CCDAEC;
---PGBackground2: #D5E4F7;
---PGTextBackground: #D5E4F7; 
---accent: rgba(0, 98, 157);
---accent-hover: rgba(0, 98, 157, 0.977);
---accent-selected: rgb(0, 98, 157, 0.612);
---accent-focused: rgb(0, 98, 157, 0.2);
-*/
-
-/*   Pink
-  --PGBackground: #EFDDF5;
-  --PGBackground2: #E9D5F1;
-  --PGTextBackground: #E9D5F1;
-  --accent: rgb(167, 59, 255);
-  --accent-hover: rgba(167, 59, 255, 0.977);
-  --accent-selected: rgb(167, 59, 255, 0.612);
-  --accent-focused: rgb(167, 59, 255, 0.2);
-*/
-
-:root {
-  --PGBackground: #FFE6E6;
-  --PGBackground2: #F2D1D1;
-  --PGTextBackground: #F2D1D1;
-  --PGFriendsBackground: rgb(0, 0, 0);
-  --PGFriends: rgb(0, 0, 0);
-  --PGActiveNow: rgb(33, 2, 1, .276);
-  --PGGuilds: rgb(66, 7, 6);
-  --PGTitleBar: #0c1021;
-  --PGSearch: rgb(53, 14, 12);
-  --PGHover: rgba(152, 29, 22, 0.200);
-  --PGBorder: rgb(78,78,81);
-  --accent: rgb(133, 59, 59);
-  --accent-hover: rgba(133, 59, 59, 0.977);
-  --accent-selected: rgb(133, 59, 59, 0.612);
-  --accent-focused: rgb(133, 59, 59, 0.2);
-}
-
-/* Dark Mode */
-:root {
-  --PGBackgroundD: rgb(26, 27, 39);
-  --PGBackground2D: rgb(22, 22, 31);
-  --PGTextBackgroundD: rgb(31, 32, 46);
-  --PGFriendsBackgroundD: rgb(0, 0, 0);
-  --PGFriendsD: rgb(0, 0, 0);
-  --PGActiveNowD: rgb(33, 2, 1, .276);
-  --PGGuildsD: rgb(66, 7, 6);
-  --PGTitleBarD: #0c1021;
-  --PGSearchD: rgb(53, 14, 12);
-  --PGHoverD: rgba(152, 29, 22, 0.200);
-  --PGBorderd: rgb(78,78,81);
-  --PGColorText: #d7dee9;
-  --accentD: rgb(177, 77, 98);
-  --accent-hoverD: rgba(177, 77, 98, 0.977);
-  --accent-selectedD: rgb(177, 77, 98, 0.612);
-  --accent-focusedD: rgb(177, 77, 98, 0.2);
-}
-
 
 .penis {
   color: rgb(220, 182, 233);
@@ -173,7 +121,6 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 .theme-dark .linkButtonIcon-7rsZcu {
   color: var(--accentD);
 } 
-
 .theme-light .clickable-ZD7xvu .icon-2xnN2Y {
   color: black;
 }

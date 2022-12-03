@@ -21,14 +21,15 @@
 </details>
 
 ## What is this theme? 🤔
-Honestly, even I'm still trying to figure this out! 💀 You can see I'm being quite liberal with shadows and shapes.... I honestly don't know what I desire from this theme. Just something soft on the eyes, and plenty of room for user hackability. I'll work on constructing that part later. 
+Project Garrison is a soft and fluffy Discord theme with a very liberal interpretation of Material Design guidelines.
 
-The work-in-progress name stems from the fact that I started development on this theme when I was vacationing in Garrison, NY. I'll come up with a real name for this theme later. Probably something gay like "Marshmallow" or  "Creamy" or "Creamallow" or idk I'll figure it out fuck you
+The work-in-progress name stems from the fact that I started development on this theme while I was vacationing in Garrison, NY. I'll come up with a real name for this theme later. Probably something lame as hell like "Marshmallow" or  "Creamy" or "Creamallow" or idk I'll figure it out fuck you. 
 
 
 # ⚠️ WARNING ⚠️
 
-Holy cow, this theme is NOT finished. Not only is it unfinished, it just sucks. It fucking sucks. Do *not* use this with the expectations of shit working the way you want it to. Want to help? Submit a pull request. My apologies in advanced for the .css being unorganized and messy.  
+Holy cow, this theme is NOT finished. Do *not* use this with the expectations of shit working the way you want it to. 
+ * ‼️ Want to help? Submit a pull request. My apologies in advance for the .css being unorganized and messy.  
 
 ## How to use 📖
 

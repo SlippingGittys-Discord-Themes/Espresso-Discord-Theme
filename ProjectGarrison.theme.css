@@ -355,7 +355,9 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 .mainContent-uDGa6R {
   color: var(--accent) !important;
 }
-
+.closedFolderIconWrapper-3tRb2d {
+background-color: var(--accent-selected);
+}
 .expandedFolderBackground-1kSAf6 {
   box-shadow: inset 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
     border-radius: 15px;
@@ -744,8 +746,64 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 .children-3xh0VB:after {
 display: none;
 }
+.wordmarkWindows-2dq6rw {
+  color: var(--accent);
+}
 
+/* Ripped from macOS title bar, credit LuckFire/Hoofer/Boloped */
+.platform-win.app-focused .typeWindows-2-g3UY .winButtonClose-3Q8ZH5 {
+  background-color: var(--accent);
+}
+.platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(2n) {
+  background-color: var(--accent-hover);
+}
+.platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3n) {
+  order: 3;
+  background-color: var(--accent-selected);
+}
+/* Dark */
+.wordmarkWindows-2dq6rw {
+  color: var(--accentD);
+}
+.platform-win.app-focused .typeWindows-2-g3UY .winButtonClose-3Q8ZH5 {
+  background-color: var(--accentD);
+}
+.platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(2n) {
+  background-color: var(--accent-hoverD);
+}
+.platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3n) {
+  order: 3;
+  background-color: var(--accent-selectedD);
+}
+.withFrame-2dL45i {
+  height: 10px;
+  margin-top: 14px;
+  margin-right: 14px;
+}
+.platform-win .typeWindows-2-g3UY .wordmark-2u86JB {
 
+  -webkit-app-region: no-drag;
+}
+.platform-win .typeWindows-2-g3UY .wordmark-2u86JB g {
+  display: none;
+}
+.platform-win .typeWindows-2-g3UY .winButton-3UMjdg {
+  width: 12px;
+  height: 12px;
+  margin-left: 8px;
+  border-radius: 15px;
+  background-color: var(--background-primary);
+  background-size: 0;
+  -webkit-app-region: no-drag;
+}
+.platform-win .typeWindows-2-g3UY .winButton-3UMjdg svg {
+  display: none;
+}
+.platform-win.app-focused .typeWindows-2-g3UY:hover div.winButton-3UMjdg {
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
 
 /* Theme Specific */
 .theme-dark .modeSelected-3DmyhH .icon-2W8DHg, .theme-dark .modeSelected-3DmyhH:hover .icon-2W8DHg, .theme-dark .modeUnread-3Cxepe .icon-2W8DHg, .theme-dark .modeUnread-3Cxepe:hover .icon-2W8DHg, .theme-dark .mainContent-uDGa6R .overflow-1wOqNV, .theme-dark .mainContent-uDGa6R {
@@ -756,3 +814,34 @@ display: none;
   color: #b4f9f8;
 }
 
+/* 
+////////////////////////////
+//////////// SYMBOLS
+///////////////////////////
+*/
+
+/* Home Logo Icon */
+[d="M23.0212 1.67671C21.3107 0.879656 19.5079 0.318797 17.6584 0C17.4062 0.461742 17.1749 0.934541 16.9708 1.4184C15.003 1.12145 12.9974 1.12145 11.0283 1.4184C10.819 0.934541 10.589 0.461744 10.3368 0.00546311C8.48074 0.324393 6.67795 0.885118 4.96746 1.68231C1.56727 6.77853 0.649666 11.7538 1.11108 16.652C3.10102 18.1418 5.3262 19.2743 7.69177 20C8.22338 19.2743 8.69519 18.4993 9.09812 17.691C8.32996 17.3997 7.58522 17.0424 6.87684 16.6135C7.06531 16.4762 7.24726 16.3387 7.42403 16.1847C11.5911 18.1749 16.408 18.1749 20.5763 16.1847C20.7531 16.3332 20.9351 16.4762 21.1171 16.6135C20.41 17.0369 19.6639 17.3997 18.897 17.691C19.3052 18.4993 19.7718 19.2689 20.3021 19.9945C22.6677 19.2689 24.8929 18.1364 26.8828 16.6466H26.8893C27.43 10.9731 25.9665 6.04728 23.0212 1.67671ZM9.68041 13.6383C8.39754 13.6383 7.34085 12.4453 7.34085 10.994C7.34085 9.54272 8.37155 8.34973 9.68041 8.34973C10.9893 8.34973 12.0395 9.54272 12.0187 10.994C12.0187 12.4453 10.9828 13.6383 9.68041 13.6383ZM18.3161 13.6383C17.0332 13.6383 15.9765 12.4453 15.9765 10.994C15.9765 9.54272 17.0124 8.34973 18.3161 8.34973C19.6184 8.34973 20.6751 9.54272 20.6543 10.994C20.6543 12.4453 19.6184 13.6383 18.3161 13.6383Z"] {
+  d: path("M21.5 15.55h13.05q.65 0 1.075-.425.425-.425.425-1.075 0-.65-.425-1.075-.425-.425-1.075-.425H21.5q-.65 0-1.075.425Q20 13.4 20 14.05q0 .65.425 1.075.425.425 1.075.425Zm0 6h13.05q.65 0 1.075-.425.425-.425.425-1.075 0-.65-.425-1.075-.425-.425-1.075-.425H21.5q-.65 0-1.075.425Q20 19.4 20 20.05q0 .65.425 1.075.425.425 1.075.425Zm0 6h7q.65 0 1.075-.425Q30 26.7 30 26.05q0-.65-.425-1.075-.425-.425-1.075-.425h-7q-.65 0-1.075.425Q20 25.4 20 26.05q0 .65.425 1.075.425.425 1.075.425Zm-7.45-11.5q.85 0 1.425-.575.575-.575.575-1.425 0-.85-.575-1.425-.575-.575-1.425-.575-.85 0-1.425.575-.575.575-.575 1.425 0 .85.575 1.425.575.575 1.425.575Zm0 6q.85 0 1.425-.575.575-.575.575-1.425 0-.85-.575-1.425-.575-.575-1.425-.575-.85 0-1.425.575-.575.575-.575 1.425 0 .85.575 1.425.575.575 1.425.575Zm0 6q.85 0 1.425-.575.575-.575.575-1.425 0-.85-.575-1.425-.575-.575-1.425-.575-.85 0-1.425.575-.575.575-.575 1.425 0 .85.575 1.425.575.575 1.425.575ZM4 40.4V7q0-1.15.9-2.075Q5.8 4 7 4h34q1.15 0 2.075.925Q44 5.85 44 7v26q0 1.15-.925 2.075Q42.15 36 41 36H12l-5.45 5.45q-.7.7-1.625.325Q4 41.4 4 40.4Z");
+  transform: scale(.60, .60);
+  fill: var(--accent);
+}
+.homeIcon-r0w4ny {
+  display: block;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 17px;
+  width: 80px;
+  height: 80px;
+}
+.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
+  background-color: rgba(0, 0, 0, 0.226);
+}
+
+/* Folders */
+[d="M20 7H12L10.553 5.106C10.214 4.428 9.521 4 8.764 4H3C2.447 4 2 4.447 2 5V19C2 20.104 2.895 21 4 21H20C21.104 21 22 20.104 22 19V9C22 7.896 21.104 7 20 7Z"] {
+  d: path("M7 40q-1.15 0-2.075-.925Q4 38.15 4 37V11q0-1.15.925-2.075Q5.85 8 7 8h12.8q.6 0 1.175.25.575.25.975.65l2.1 2.1H41q1.15 0 2.075.925Q44 12.85 44 14H10q-1.25 0-2.125.875T7 17v20l4.5-17.75q.25-1 1.1-1.625.85-.625 1.85-.625H43.1q1.45 0 2.4 1.15t.55 2.6l-4.4 16.95q-.3 1.2-1.1 1.75T38.5 40Z");
+  transform: scale(.48, .48);
+  fill: var(--accent);
+}

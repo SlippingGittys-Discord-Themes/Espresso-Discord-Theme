@@ -34,7 +34,6 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 /* Emoji */
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Google.css");
-
 /* Material Symbols */
 @import url("https://slippinggitty-s-discord-things.github.io/Discord-MaterialSymbols-Icons/producticons.theme.css");
 
@@ -61,17 +60,30 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
 //////////////////////////////////////
 */
 
-/*   --PGBackground: #CCDAEC;
-  --PGBackground2: #D5E4F7;
-  --PGTextBackground: #D5E4F7; 
-    --accent-hover: rgba(0, 98, 157, 0.977);
-  --accent-selected: rgb(0, 98, 157, 0.612);
-  --accent-focused: rgb(0, 98, 157, 0.2);*/
+/*   Green
+--PGBackground: #CCDAEC;
+--PGBackground2: #D5E4F7;
+--PGTextBackground: #D5E4F7; 
+--accent: rgba(0, 98, 157);
+--accent-hover: rgba(0, 98, 157, 0.977);
+--accent-selected: rgb(0, 98, 157, 0.612);
+--accent-focused: rgb(0, 98, 157, 0.2);
+*/
 
-:root {
+/*   Pink
   --PGBackground: #EFDDF5;
   --PGBackground2: #E9D5F1;
   --PGTextBackground: #E9D5F1;
+  --accent: rgb(167, 59, 255);
+  --accent-hover: rgba(167, 59, 255, 0.977);
+  --accent-selected: rgb(167, 59, 255, 0.612);
+  --accent-focused: rgb(167, 59, 255, 0.2);
+*/
+
+:root {
+  --PGBackground: #FFE6E6;
+  --PGBackground2: #F2D1D1;
+  --PGTextBackground: #F2D1D1;
   --PGFriendsBackground: rgb(0, 0, 0);
   --PGFriends: rgb(0, 0, 0);
   --PGActiveNow: rgb(33, 2, 1, .276);
@@ -80,10 +92,10 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
   --PGSearch: rgb(53, 14, 12);
   --PGHover: rgba(152, 29, 22, 0.200);
   --PGBorder: rgb(78,78,81);
-  --accent: rgb(167, 59, 255);
-  --accent-hover: rgba(167, 59, 255, 0.977);
-  --accent-selected: rgb(167, 59, 255, 0.612);
-  --accent-focused: rgb(167, 59, 255, 0.2);
+  --accent: rgb(133, 59, 59);
+  --accent-hover: rgba(133, 59, 59, 0.977);
+  --accent-selected: rgb(133, 59, 59, 0.612);
+  --accent-focused: rgb(133, 59, 59, 0.2);
 }
 
 /* Dark Mode */

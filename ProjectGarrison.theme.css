@@ -45,7 +45,7 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 */
 
 /* Light */
-@import url('https://slippinggittys-discord-Themes.github.io/ProjectGarrison/themes/light/tan.css');
+@import url('https://slippinggittys-discord-Themes.github.io/ProjectGarrison/themes/light/turquoise.css');
 
 /* Dark */
 @import url('https://slippinggittys-discord-Themes.github.io/ProjectGarrison/themes/dark/tokyonight.css');
@@ -762,16 +762,16 @@ display: none;
   background-color: var(--accent-selected);
 }
 /* Dark */
-.wordmarkWindows-2dq6rw {
+.theme-dark .wordmarkWindows-2dq6rw {
   color: var(--accentD);
 }
-.platform-win.app-focused .typeWindows-2-g3UY .winButtonClose-3Q8ZH5 {
+.theme-dark .platform-win.app-focused .typeWindows-2-g3UY .winButtonClose-3Q8ZH5 {
   background-color: var(--accentD);
 }
-.platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(2n) {
+.theme-dark .platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(2n) {
   background-color: var(--accent-hoverD);
 }
-.platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3n) {
+.theme-dark .platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3n) {
   order: 3;
   background-color: var(--accent-selectedD);
 }

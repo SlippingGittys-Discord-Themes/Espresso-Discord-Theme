@@ -1,0 +1,17 @@
+:root {
+  --PGBackground: #FFE6E6;
+  --PGBackground2: #F2D1D1;
+  --PGTextBackground: #F2D1D1;
+  --PGFriendsBackground: rgb(0, 0, 0);
+  --PGFriends: rgb(0, 0, 0);
+  --PGActiveNow: rgb(33, 2, 1, .276);
+  --PGGuilds: rgb(66, 7, 6);
+  --PGTitleBar: #0c1021;
+  --PGSearch: rgb(53, 14, 12);
+  --PGHover: rgba(152, 29, 22, 0.200);
+  --PGBorder: rgb(78,78,81);
+  --accent: rgb(133, 59, 59);
+  --accent-hover: rgba(133, 59, 59, 0.977);
+  --accent-selected: rgb(133, 59, 59, 0.612);
+  --accent-focused: rgb(133, 59, 59, 0.2);
+}

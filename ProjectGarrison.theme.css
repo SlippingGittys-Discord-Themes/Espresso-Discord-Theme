@@ -45,7 +45,7 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 */
 
 /* Light */
-@import url('https://slippinggittys-discord-Themes.github.io/ProjectGarrison/themes/light/pink.css');
+@import url('https://slippinggittys-discord-Themes.github.io/ProjectGarrison/themes/light/tan.css');
 
 /* Dark */
 @import url('https://slippinggittys-discord-Themes.github.io/ProjectGarrison/themes/dark/tokyonight.css');
@@ -739,6 +739,10 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
   border-radius: 10px;
   box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.198);
   transition: 0.3s;
+}
+
+.children-3xh0VB:after {
+display: none;
 }
 
 

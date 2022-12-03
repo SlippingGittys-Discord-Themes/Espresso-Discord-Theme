@@ -4,9 +4,17 @@
 ![image](https://user-images.githubusercontent.com/76500838/203900189-fc54bc09-19a5-4e82-95a3-1f25820c96d9.png)
 
 <details>
-<summary>Dark Mode</summary>
+<summary>Other color schemes 🎨</summary>
 
+## Tan
+![Screenshot 2022-12-02 at 11 06 51 PM](https://user-images.githubusercontent.com/76500838/205424895-f85df371-5800-4e3f-8fc5-e0a18a7418bd.png)
+
+## Turquoise
+![Screenshot 2022-12-02 at 11 13 44 PM](https://user-images.githubusercontent.com/76500838/205425118-37725ded-9f13-4ecc-99d6-a20b3b8c7ad4.png)
+
+## Tokyo Night
 ![Screenshot 2022-12-02 at 4 56 29 PM](https://user-images.githubusercontent.com/76500838/205403331-61df8a63-9e85-4a64-a3ca-4187cd6ca85c.png)
+
 
 </details>
 

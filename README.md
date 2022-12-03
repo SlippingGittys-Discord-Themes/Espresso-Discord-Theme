@@ -20,13 +20,13 @@
 
 </details>
 
-## What is this theme? 🤔
+## What is this theme? 
 Project Garrison is a soft and fluffy Discord theme with a very liberal interpretation of Material Design guidelines.
 
 The work-in-progress name stems from the fact that I started development on this theme while I was vacationing in Garrison, NY. I'll come up with a real name for this theme later. Probably something lame as hell like "Marshmallow" or  "Creamy" or "Creamallow" or idk I'll figure it out fuck you. 
 
 
-# ⚠️ WARNING ⚠️
+## ⚠️ WARNING ⚠️
 
 Holy cow, this theme is NOT finished. Do *not* use this with the expectations of shit working the way you want it to. 
  * ‼️ Want to help? Submit a pull request. My apologies in advance for the .css being unorganized and messy.  

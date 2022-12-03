@@ -1,6 +1,4 @@
-<h1 align="center"> Project Garrison </h1>
-<p align="center"> A Soft and Fluffy Discord Theme </p>
-
+![LOGO](https://user-images.githubusercontent.com/76500838/205428483-2017a555-5154-4c03-8246-23772f8a1a0a.png)
 ![garrison](https://user-images.githubusercontent.com/76500838/205427767-326a1b7b-cb4d-41aa-b39f-9cef6a94ad36.png)
 
 

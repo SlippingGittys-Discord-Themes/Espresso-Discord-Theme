@@ -137,6 +137,16 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
   color: white;
   border-radius: 18px;
 }
+.tabBar-ra-EuL .addFriend-emTWY1.addFriend-emTWY1.addFriend-emTWY1, .tabBar-ra-EuL .addFriend-emTWY1.addFriend-emTWY1.addFriend-emTWY1:hover {
+  border: solid 2px var(--accent);
+  border-radius: 15px;
+  background-color: var(--accent-hover);
+}
+.theme-dark .tabBar-ra-EuL .addFriend-emTWY1.addFriend-emTWY1.addFriend-emTWY1, .theme-dark .tabBar-ra-EuL .addFriend-emTWY1.addFriend-emTWY1.addFriend-emTWY1:hover {
+  border: solid 2px var(--accentD);
+  border-radius: 15px;
+  background-color: var(--accent-hoverD);
+}
 .button-2b4VEQ.buttonSize-3QlBTl:hover, .actionButton-3-B2x-:hover, .lookFilled-yCfaCM.colorPrimary-2AuQVo:hover, .popoutBannerPremium-3i5EEI .pencilContainer-18TrEJ:hover {
   background-color: var(--accent-hover);
   border-radius: 10px;

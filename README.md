@@ -19,7 +19,7 @@
 ![image](https://user-images.githubusercontent.com/76500838/205454490-0a654393-dfa7-42c6-b997-b2c8084c045c.png)
 
 ## ThinkPad 
-![eFz7q3TXR0](https://user-images.githubusercontent.com/76500838/205514808-ae535ee2-a4b0-4e5a-876c-10f2810bba9f.png)
+![image](https://user-images.githubusercontent.com/76500838/205515935-eef67991-5bb3-497c-bb90-8b2dd96aad15.png)
 
 ## Nord
 ![FrhSwU4a94](https://user-images.githubusercontent.com/76500838/205514826-b7541be9-e8e8-4a03-a199-c623bf2541d2.png)

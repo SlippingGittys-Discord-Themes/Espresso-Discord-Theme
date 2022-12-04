@@ -23,6 +23,16 @@
 
 </details>
 
+## How to use 📖
+
+### Discord App
+
+* Use a Discord modification such as [Vencord](https://github.com/Vendicated/Vencord), [Openasar](https://openasar.dev/), or [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) that allows for CSS injection
+
+### Discord Website
+
+* Use a CSS injecting extension such as [Stylus](https://github.com/openstyles/stylus), and then click [here](https://github.com/SlippingGittys-Discord-Themes/ProjectGarrison/raw/main/projectgarrison.user.css) and press "Install style".
+
 ## What is this theme? 
 Project Garrison is a soft and fluffy Discord theme with a very liberal interpretation of Material Design guidelines.
 
@@ -33,16 +43,6 @@ The work-in-progress name stems from the fact that I started development on this
 
 Holy cow, this theme is NOT finished. Do *not* use this with the expectations of shit working the way you want it to. 
  * ‼️ Want to help? Submit a pull request. My apologies in advance for the .css being unorganized and messy.  
-
-## How to use 📖
-
-### Discord App
-
-* Use a Discord modification such as [Vencord](https://github.com/Vendicated/Vencord), [Openasar](https://openasar.dev/), or [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) that allows for CSS injection
-
-### Discord Website
-
-* Use a CSS injecting extension such as [Stylus](https://github.com/openstyles/stylus), and then click [here](https://github.com/SlippingGittys-Discord-Themes/ProjectGarrison/raw/main/projectgarrison.user.css) and press "Install style".
 
 ## Devs, Contributors, and Credits ✍️
 | <a href="https://github.com/SlippingGitty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/76500838?s=460&u=109f1c2012f3e452251391807262ed098f45ec94&v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/discord-extensions" target="_blank"> <img src="https://avatars.githubusercontent.com/u/103222215?s=200&v=4" alt="" width="96px" height="96px"> </a> | <a href="https://m3.material.io/styles/icons/overview" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" alt="" width="96px" height="96px"> </a> |

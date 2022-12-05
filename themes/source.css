@@ -761,27 +761,30 @@ display: none;
   color: var(--accent);
 }
 
-/* Ripped from macOS title bar, credit LuckFire/Hoofer/Boloped */
+/* --------------------- macOS Title Bar 🍎 🖥️ -------------------
+> See License: https://github.com/discord-extensions/macos-titlebar/blob/master/LICENSE
+> Credit: LuckFire/Hoofer/Boloped 
+*/
+
+/* Light */ 
 .platform-win.app-focused .typeWindows-2-g3UY .winButtonClose-3Q8ZH5 {
   background-color: var(--accent);
 }
 .platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(2n) {
-  background-color: var(--accent-hover);
+  background-color: var(--accent-selected);
 }
 .platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3n) {
-  order: 3;
-  background-color: var(--accent-selected);
+  background-color: var(--accent-hover);
 }
 /* Dark */
 .theme-dark .platform-win.app-focused .typeWindows-2-g3UY .winButtonClose-3Q8ZH5 {
   background-color: var(--accentD);
 }
 .theme-dark .platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(2n) {
-  background-color: var(--accent-hoverD);
+  background-color: var(--accent-selectedD);
 }
 .theme-dark .platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3n) {
-  order: 3;
-  background-color: var(--accent-selectedD);
+  background-color: var(--accent-hoverD);
 }
 
 
@@ -811,7 +814,12 @@ display: none;
   background-repeat: no-repeat;
 }
 
-/* Theme Specific */
+/* 
+///////////////////////////////
+//////////// THEME SPECIFIC
+//////////////////////////////
+*/
+
 .theme-dark .modeSelected-3DmyhH .icon-2W8DHg, .theme-dark .modeSelected-3DmyhH:hover .icon-2W8DHg, .theme-dark .modeUnread-3Cxepe .icon-2W8DHg, .theme-dark .modeUnread-3Cxepe:hover .icon-2W8DHg, .theme-dark .mainContent-uDGa6R .overflow-1wOqNV, .theme-dark .mainContent-uDGa6R {
   color: var(--PGColorTextD) !important;
 }

@@ -875,14 +875,27 @@ display: none;
 
 .numberBadge-37OJ3S,
 .unreadRelevant-2f-VSK,
-.newBadge-1bHewI {
+.newBadge-1bHewI, .item-2LIpTv {
   background: var(--accent) !important;
 }
 
 .theme-dark .numberBadge-37OJ3S,
 .theme-dark .unreadRelevant-2f-VSK,
-.theme-dark .newBadge-1bHewI {
+.theme-dark .newBadge-1bHewI, .theme-dark .item-2LIpTv {
   background: var(--accentD) !important;
+}
+
+.item-2LIpTv {
+  margin-left: 4px;
+  width: 4px;
+  border-radius: 5px 5px 5px 5px; 
+  transition: .5s;
+}
+
+.theme-dark .item-2LIpTv {
+  width: 4px;
+  border-radius: 5px 5px 5px 5px; 
+  transition: .5s;
 }
 
 /* 

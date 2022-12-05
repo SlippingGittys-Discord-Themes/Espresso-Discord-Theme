@@ -443,6 +443,14 @@ background-color: var(--accent-selected);
 //////////////////////////////////////
 */
 
+.theme-dark .autocompleteInner-2tOQrf {
+  background-color: var(--PGBackgroundD);
+}
+
+.autocompleteInner-2tOQrf {
+  background-color: var(--PGBackground);
+}
+
 .scrollableContainer-15eg7h, .hasConnectedBar-1vN2JH, .preview-QJ3OG3 {
   border-bottom: solid 1px;
   border-color: var(--accent);

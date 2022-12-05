@@ -893,6 +893,7 @@ display: none;
 }
 
 .theme-dark .item-2LIpTv {
+  margin-left: 4px;
   width: 4px;
   border-radius: 5px 5px 5px 5px; 
   transition: .5s;

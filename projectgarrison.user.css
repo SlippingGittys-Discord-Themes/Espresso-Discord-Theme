@@ -8,10 +8,71 @@
     ==/UserStyle== */
   
 /*
------------Source---------
+-----------Source 📡---------
 > This is the core of the entire theme
 > It is essential that you do not touch this url, unless you know what you are doing.
 */
-@import url('https://slippinggittys-discord-Themes.github.io/ProjectGarrison/ProjectGarrison.theme.css');
+@import url('https://slippinggittys-discord-Themes.github.io/ProjectGarrison/themes/source.css');
+
+
+/*
+-----------Emoji 😖---------
+> Comment or remove this URL if you do not want to use Google's emojis
+> Removing/commenting will revert back to Twemoji
+*/
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Google.css");
+
+/*
+-----------Material Symbols 🔣---------
+> This is the Material Symbols/Product Sans SVG assets 
+> Removing this will revert back to the standard Discord svg icons
+*/
+@import url("https://slippinggitty-s-discord-things.github.io/Discord-MaterialSymbols-Icons/producticons.theme.css");
+
+/*
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+> -------COLOR PALLETES 🎨------- <
+> Change the Dark and Light theme <
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+*/
+
+/* 
+-------Light------
+> Replace the last "___.css" with another color option (e.x: "newspaper.css", "pink.css")
+> See choices here https://github.com/SlippingGittys-Discord-Themes/ProjectGarrison/tree/main/themes/light
+*/
+@import url('https://slippinggittys-discord-Themes.github.io/ProjectGarrison/themes/light/pink.css');
+
+/* 
+-------Dark------
+> Replace the last "___.css" with another color option (e.x: "amoled.css", "thinkpad.css")
+> See choices here https://github.com/SlippingGittys-Discord-Themes/ProjectGarrison/tree/main/themes/dark
+*/
+@import url('https://slippinggittys-discord-Themes.github.io/ProjectGarrison/themes/dark/tokyonight.css');
+
+/*
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+> --------------- SUBMIT YOUR OWN COLOR PALLETES!------------------- <
+>   Submiting your own color palletes is just a pull request away!   <
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+*/
+
+/*
+-----------Fonts ⌨️---------
+> This imports the Product Sans (Google Sans) font
+> Removing or commenting this block of CSS will revert back to the default GG Sans font
+*/
+@font-face {
+  font-family: 'Product Sans';
+  font-style: normal;
+  src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+}
+* {
+  --font-primary: Product Sans;
+  --font-display: Product Sans;
+  --font-headline: Product Sans;
+  text-rendering: optimizeLegibility;
+  text-transform: none !important;
+}
 
 }

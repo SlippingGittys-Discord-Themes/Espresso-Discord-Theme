@@ -764,6 +764,81 @@ transition: .3s;
     box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.198);
 }
 
+/* Reply Highlight */
+
+#app-mount .message-2CShn3 {
+  margin-left: 5px;
+  border-radius: vaR(--accent-focused);
+}
+
+#app-mount .message-2CShn3::before {
+  border-radius: 6px;
+}
+
+#app-mount .message-2CShn3.mentioned-Tre-dv {
+  background-color: var(--accent-focused);
+}
+
+#app-mount .message-2CShn3.mentioned-Tre-dv::before {
+  background-color: var(--accent);
+}
+
+#app-mount .message-2CShn3.mentioned-Tre-dv:hover {
+  background-color: var(--accent-focused);
+}
+
+#app-mount .message-2CShn3.replying-eZ7p5z,
+#app-mount .message-2CShn3.ephemeral-2nDdnn {
+  background-color: var(--accent-focused);
+}
+
+#app-mount .message-2CShn3.replying-eZ7p5z::before,
+#app-mount .message-2CShn3.ephemeral-2nDdnn::before {
+  background-color: var(--accent);
+}
+
+#app-mount .message-2CShn3.replying-eZ7p5z:hover,
+#app-mount .message-2CShn3.ephemeral-2nDdnn:hover {
+  background-color: var(--accent-focused);
+}
+
+/* Dark */
+.theme-dark #app-mount .message-2CShn3 {
+  margin-left: 5px;
+  border-radius: vaR(--accent-focusedD);
+}
+
+.theme-dark #app-mount .message-2CShn3::before {
+  border-radius: 6px;
+}
+
+.theme-dark #app-mount .message-2CShn3.mentioned-Tre-dv {
+  background-color: var(--accent-focusedD);
+}
+
+.theme-dark #app-mount .message-2CShn3.mentioned-Tre-dv::before {
+  background-color: var(--accentD);
+}
+
+.theme-dark #app-mount .message-2CShn3.mentioned-Tre-dv:hover {
+  background-color: var(--accent-focusedD);
+}
+
+.theme-dark #app-mount .message-2CShn3.replying-eZ7p5z,
+.theme-dark #app-mount .message-2CShn3.ephemeral-2nDdnn {
+  background-color: var(--accent-focusedD);
+}
+
+.theme-dark #app-mount .message-2CShn3.replying-eZ7p5z::before,
+.theme-dark #app-mount .message-2CShn3.ephemeral-2nDdnn::before {
+  background-color: var(--accentD);
+}
+
+.theme-dark #app-mount .message-2CShn3.replying-eZ7p5z:hover,
+.theme-dark #app-mount .message-2CShn3.ephemeral-2nDdnn:hover {
+  background-color: var(--accent-focusedD);
+}
+
 
 /*
   ////////////////////////

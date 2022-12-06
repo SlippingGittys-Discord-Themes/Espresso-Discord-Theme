@@ -814,6 +814,38 @@ display: none;
   background-repeat: no-repeat;
 }
 
+
+/* 
+///////////////////////////////
+//////////// POP OUTS
+//////////////////////////////
+*/
+
+.theme-dark .scroller-1bVxF5, .theme-dark .messagesPopoutWrap-3zryHW:hover, .theme-dark .recentMentionsPopout-2bI1ZN  {
+  border-right: var(--accentD) 2px solid;
+  border-radius: 1px;
+  transition: .3s;
+  }
+  
+.scroller-1bVxF5, .messagesPopoutWrap-3zryHW:hover, .recentMentionsPopout-2bI1ZN  {
+  border-right: var(--accent) 2px solid;
+  border-radius: 1px;
+  transition: .3s;
+}
+
+.theme-dark .popout-3gby1q, .drawerSizingWrapper-1txdWG, .theme-dark .quickswitcher-pKcM9U {
+  background-color: var(--PGBackgroundD);
+  border-right: var(--accentD) 2px solid;
+  border-radius: 1px;
+  transition: .3s;
+}
+.popout-3gby1q, .drawerSizingWrapper-1txdWG, .quickswitcher-pKcM9U {
+  background-color: var(--PGBackground);
+  border-right: var(--accent) 2px solid;
+  border-radius: 1px;
+  transition: .3s;
+}
+
 /* 
 ///////////////////////////////
 //////////// THEME SPECIFIC

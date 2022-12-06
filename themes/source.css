@@ -134,6 +134,11 @@ code,
     color: var(--accent);
 }
 
+.wrapper-2vIMkT {
+box-shadow: inset 1px 1px 3px 1px  rgba(128, 128, 128, 0.336);
+transition: .3s;
+}
+
 /* Dark */
 .theme-dark .button-2b4VEQ.buttonSize-3QlBTl,
 .theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo,
@@ -175,7 +180,10 @@ code,
 .theme-dark .buttonWrapper-3YFQGJ {
     color: var(--accentD);
 }
-
+.theme-dark .wrapper-2vIMkT {
+  box-shadow: inset 1px 1px 3px 1px  rgba(0, 0, 0, 0.336);
+  transition: .3s;
+}
 
 /*
   ///////////////////////////////////////

@@ -135,8 +135,8 @@ code,
 }
 
 .wrapper-2vIMkT {
-box-shadow: inset 1px 1px 3px 1px  rgba(128, 128, 128, 0.336);
-transition: .3s;
+    box-shadow: inset 1px 1px 3px 1px rgba(128, 128, 128, 0.336);
+    transition: .3s;
 }
 
 /* Dark */
@@ -180,9 +180,10 @@ transition: .3s;
 .theme-dark .buttonWrapper-3YFQGJ {
     color: var(--accentD);
 }
+
 .theme-dark .wrapper-2vIMkT {
-  box-shadow: inset 1px 1px 3px 1px  rgba(0, 0, 0, 0.336);
-  transition: .3s;
+    box-shadow: inset 1px 1px 3px 1px rgba(0, 0, 0, 0.336);
+    transition: .3s;
 }
 
 /*
@@ -764,76 +765,76 @@ transition: .3s;
 /* Reply Highlight */
 
 #app-mount .message-2CShn3 {
-  margin-left: 5px;
-  border-radius: vaR(--accent-focused);
+    margin-left: 5px;
+    border-radius: vaR(--accent-focused);
 }
 
 #app-mount .message-2CShn3::before {
-  border-radius: 6px;
+    border-radius: 6px;
 }
 
 #app-mount .message-2CShn3.mentioned-Tre-dv {
-  background-color: var(--accent-focused);
+    background-color: var(--accent-focused);
 }
 
 #app-mount .message-2CShn3.mentioned-Tre-dv::before {
-  background-color: var(--accent);
+    background-color: var(--accent);
 }
 
 #app-mount .message-2CShn3.mentioned-Tre-dv:hover {
-  background-color: var(--accent-focused);
+    background-color: var(--accent-focused);
 }
 
 #app-mount .message-2CShn3.replying-eZ7p5z,
 #app-mount .message-2CShn3.ephemeral-2nDdnn {
-  background-color: var(--accent-focused);
+    background-color: var(--accent-focused);
 }
 
 #app-mount .message-2CShn3.replying-eZ7p5z::before,
 #app-mount .message-2CShn3.ephemeral-2nDdnn::before {
-  background-color: var(--accent);
+    background-color: var(--accent);
 }
 
 #app-mount .message-2CShn3.replying-eZ7p5z:hover,
 #app-mount .message-2CShn3.ephemeral-2nDdnn:hover {
-  background-color: var(--accent-focused);
+    background-color: var(--accent-focused);
 }
 
 /* Dark */
 .theme-dark #app-mount .message-2CShn3 {
-  margin-left: 5px;
-  border-radius: vaR(--accent-focusedD);
+    margin-left: 5px;
+    border-radius: vaR(--accent-focusedD);
 }
 
 .theme-dark #app-mount .message-2CShn3::before {
-  border-radius: 6px;
+    border-radius: 6px;
 }
 
 .theme-dark #app-mount .message-2CShn3.mentioned-Tre-dv {
-  background-color: var(--accent-focusedD);
+    background-color: var(--accent-focusedD);
 }
 
 .theme-dark #app-mount .message-2CShn3.mentioned-Tre-dv::before {
-  background-color: var(--accentD);
+    background-color: var(--accentD);
 }
 
 .theme-dark #app-mount .message-2CShn3.mentioned-Tre-dv:hover {
-  background-color: var(--accent-focusedD);
+    background-color: var(--accent-focusedD);
 }
 
 .theme-dark #app-mount .message-2CShn3.replying-eZ7p5z,
 .theme-dark #app-mount .message-2CShn3.ephemeral-2nDdnn {
-  background-color: var(--accent-focusedD);
+    background-color: var(--accent-focusedD);
 }
 
 .theme-dark #app-mount .message-2CShn3.replying-eZ7p5z::before,
 .theme-dark #app-mount .message-2CShn3.ephemeral-2nDdnn::before {
-  background-color: var(--accentD);
+    background-color: var(--accentD);
 }
 
 .theme-dark #app-mount .message-2CShn3.replying-eZ7p5z:hover,
 .theme-dark #app-mount .message-2CShn3.ephemeral-2nDdnn:hover {
-  background-color: var(--accent-focusedD);
+    background-color: var(--accent-focusedD);
 }
 
 
@@ -920,8 +921,8 @@ transition: .3s;
   ////////////// Settings
   //////////////////////////////////////
   */
-.theme-dark .accountProfileCard-lbN7n-, .theme-dark
-.profileBannerPreview-3mLIdO {
+.theme-dark .accountProfileCard-lbN7n-,
+.theme-dark .profileBannerPreview-3mLIdO {
     background: var(--PGBackground2D);
     border-radius: 20px;
 }
@@ -1129,6 +1130,18 @@ transition: .3s;
     border-right: var(--accent) 2px solid;
     border-radius: 1px;
     transition: .3s;
+}
+
+.theme-dark .focusLock-2tveLW,
+.theme-dark .root-g14mjS,
+.theme-dark .footerSeparator-VzAYwb {
+    background-color: var(--PGBackground2D);
+}
+
+.focusLock-2tveLW,
+.root-g14mjS,
+.footerSeparator-VzAYwb {
+    background-color: var(--PGBackground2);
 }
 
 /* 

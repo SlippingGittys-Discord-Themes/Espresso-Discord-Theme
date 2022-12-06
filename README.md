@@ -30,18 +30,19 @@
 </details>
 
 ## How to use 📖
-
 ### Discord App
 
 * BetterDiscord, Vencord, and Openasar users can grab the [ProjectGarrison.theme.css](https://raw.githubusercontent.com/SlippingGittys-Discord-Themes/ProjectGarrison/main/ProjectGarrison.theme.css) file and either
   * Place the file in the BetterDiscord themes folder
   * Follow the instructions on Vencord's themes tab
   * Copy the text in the file, and paste it in Openasar's quick CSS text field
+
+### Browser
 * Stylus
   * Head [here](https://github.com/SlippingGittys-Discord-Themes/ProjectGarrison/raw/main/projectgarrison.user.css) to install.
 
 ## What is this theme? 
-Project Garrison is a soft and fluffy Discord theme with a very liberal interpretation of Material Design guidelines.
+Project Garrison is a soft and colorful Discord theme with a very liberal interpretation of Material Design guidelines.
 
 The work-in-progress name stems from the fact that I started development on this theme while I was vacationing in Garrison, NY. I'll come up with a real name for this theme later. Probably something lame as hell like "Marshmallow" or  "Creamy" or "Creamallow" or idk I'll figure it out fuck you. 
 

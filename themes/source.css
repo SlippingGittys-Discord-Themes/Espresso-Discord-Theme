@@ -60,18 +60,6 @@ code,
     --brand-experiment-560: var(--accent-selectedD);
 }
 
-.theme-light .linkButtonIcon-7rsZcu {
-    color: var(--accent);
-}
-
-.theme-dark .linkButtonIcon-7rsZcu {
-    color: var(--accentD);
-}
-
-.theme-light .clickable-ZD7xvu .icon-2xnN2Y {
-    color: black;
-}
-
 /*
   ///////////////////////////////////////
   ////////////// Buttons
@@ -137,6 +125,26 @@ code,
 .wrapper-2vIMkT {
     box-shadow: inset 1px 1px 3px 1px rgba(128, 128, 128, 0.336);
     transition: .3s;
+}
+
+.theme-light .linkButtonIcon-7rsZcu {
+    color: var(--accent);
+}
+
+.theme-dark .linkButtonIcon-7rsZcu {
+    color: var(--accentD);
+}
+
+.icon-1zidb7, .icon-E4cW1l {
+  color: var(--accent);
+}
+
+.theme-dark .icon-1zidb7, .theme-dark .icon-E4cW1l {
+  color: var(--accentD);
+}
+
+.theme-light .clickable-ZD7xvu .icon-2xnN2Y {
+    color: black;
 }
 
 /* Dark */

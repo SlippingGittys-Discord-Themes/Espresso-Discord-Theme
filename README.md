@@ -41,6 +41,13 @@
 * Stylus
   * Head [here](https://github.com/SlippingGittys-Discord-Themes/ProjectGarrison/raw/main/projectgarrison.user.css) to install.
   
+<details>
+<summary> It's reccomended to turn off Snowsgiving in the Experiments tab ⚠️ </summary>
+
+![image](https://user-images.githubusercontent.com/76500838/206277747-f50f6306-be0e-40d0-b613-cca2a20c4505.png)
+
+</details>
+  
 ## Changing the Color Scheme 🖌️
 See the instructions [here.](https://github.com/SlippingGittys-Discord-Themes/ProjectGarrison/tree/main/themes)
 

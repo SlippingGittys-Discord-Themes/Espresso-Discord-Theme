@@ -40,6 +40,9 @@
 ### Browser
 * Stylus
   * Head [here](https://github.com/SlippingGittys-Discord-Themes/ProjectGarrison/raw/main/projectgarrison.user.css) to install.
+  
+## Changing the Color Scheme 🖌️
+See the instructions [here.](https://github.com/SlippingGittys-Discord-Themes/ProjectGarrison/tree/main/themes)
 
 ## What is this theme? 
 Project Garrison is a soft and colorful Discord theme with a very liberal interpretation of Material Design guidelines.

@@ -39,7 +39,7 @@
 
 ### Browser
 * Stylus
-  * Head [here](https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/raw/main/Espresso-Discord-Theme.user.css) to install.
+  * Head [here](https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/raw/main/discordEspresso.user.css) to install.
   
 <details>
 <summary> It's reccomended to turn off Snowsgiving in the Experiments tab ⚠️ </summary>

@@ -1089,6 +1089,26 @@ code,
     -webkit-app-region: no-drag;
 }
 
+.platform-win .sidebar-1tnWFu .header-3OsQeK,
+.platform-win .sidebar-1tnWFu .searchBarComponent-3N7dCG {
+  -webkit-app-region: no-drag;
+}
+.platform-win .sidebar-1tnWFu .searchBar-3TnChZ {
+  -webkit-app-region: drag;
+}
+
+.chat-2ZfjoI {
+  z-index: 103;
+}
+.chat-2ZfjoI .container-ZMc96U {
+  -webkit-app-region: drag;
+}
+.chat-2ZfjoI .container-ZMc96U .topic-11NuQZ,
+.chat-2ZfjoI .container-ZMc96U .title-17SveM,
+.chat-2ZfjoI .container-ZMc96U .nicknames-10Sg6e {
+  -webkit-app-region: no-drag;
+}
+
 .platform-win .typeWindows-2-g3UY .winButton-3UMjdg svg {
     display: none;
 }

@@ -1259,7 +1259,8 @@ code,
 
 .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub,
 .wrapper-3kah-n:hover .childWrapper-1j_1ub {
-    background-color: rgba(0, 0, 0, 0.226);
+  background-color: rgba(0, 0, 0, 0);
+  box-shadow: inset 3px 3px 5px 4px rgba(0, 0, 0, 0.198);
 }
 
 /* Settings Icons */

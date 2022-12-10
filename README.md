@@ -1,4 +1,4 @@
-![LOGO](https://user-images.githubusercontent.com/76500838/205428483-2017a555-5154-4c03-8246-23772f8a1a0a.png)
+![Untitled-1](https://user-images.githubusercontent.com/76500838/206823117-28aea600-773b-4c7c-af16-36e21bbf1505.png)
 ![image](https://user-images.githubusercontent.com/76500838/205454527-57a32aca-fed0-47d8-8ad1-37df745fb1cc.png)
 
 
@@ -32,14 +32,14 @@
 ## How to use 📖
 ### Discord App
 
-* BetterDiscord, Vencord, and Openasar users can grab the [ProjectGarrison.theme.css](https://raw.githubusercontent.com/SlippingGittys-Discord-Themes/ProjectGarrison/main/ProjectGarrison.theme.css) file and either
+* BetterDiscord, Vencord, and Openasar users can grab the [discordEspresso.theme.css](https://raw.githubusercontent.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/main/discordEspresso.theme.css) file and either
   * Place the file in the BetterDiscord themes folder
   * Follow the instructions on Vencord's themes tab
   * Copy the text in the file, and paste it in Openasar's quick CSS text field
 
 ### Browser
 * Stylus
-  * Head [here](https://github.com/SlippingGittys-Discord-Themes/ProjectGarrison/raw/main/projectgarrison.user.css) to install.
+  * Head [here](https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/raw/main/Espresso-Discord-Theme.user.css) to install.
   
 <details>
 <summary> It's reccomended to turn off Snowsgiving in the Experiments tab ⚠️ </summary>
@@ -48,13 +48,11 @@
 
 </details>
   
-## Changing the Color Scheme 🖌️
-See the instructions [here.](https://github.com/SlippingGittys-Discord-Themes/ProjectGarrison/tree/main/themes)
-
 ## What is this theme? 
-Project Garrison is a soft and colorful Discord theme with a very liberal interpretation of Material Design guidelines.
+Espresso is a soft and colorful Discord theme with a very liberal interpretation of Material Design guidelines.
 
-The work-in-progress name stems from the fact that I started development on this theme while I was vacationing in Garrison, NY. I'll come up with a real name for this theme later. Probably something lame as hell like "Marshmallow" or  "Creamy" or "Creamallow" or idk I'll figure it out fuck you. 
+## Changing the Color Scheme 🖌️
+See the instructions [here.](https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/tree/main/themes)
 
 ## Devs, Contributors, and Credits ✍️
 | <a href="https://github.com/SlippingGitty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/76500838?s=460&u=109f1c2012f3e452251391807262ed098f45ec94&v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/discord-extensions" target="_blank"> <img src="https://avatars.githubusercontent.com/u/103222215?s=200&v=4" alt="" width="96px" height="96px"> </a> | <a href="https://m3.material.io/styles/icons/overview" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" alt="" width="96px" height="96px"> </a> |

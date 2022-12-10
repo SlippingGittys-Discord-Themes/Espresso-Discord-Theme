@@ -7,9 +7,6 @@
 <details>
 <summary>Click to show more color schemes 🎨</summary>
 
-## Tan
-![image](https://user-images.githubusercontent.com/76500838/205454527-57a32aca-fed0-47d8-8ad1-37df745fb1cc.png)
-
 ## Newspaper
 ![image](https://user-images.githubusercontent.com/76500838/205516297-2230a211-9a46-42ae-a078-16a220780ed7.png)
 
@@ -18,6 +15,9 @@
 
 ## Pink
 ![image](https://user-images.githubusercontent.com/76500838/205454611-ffa55a34-05af-4c0f-9193-a926678ef8a4.png)
+
+## Tan
+![image](https://user-images.githubusercontent.com/76500838/205454527-57a32aca-fed0-47d8-8ad1-37df745fb1cc.png)
 
 ## Tokyo Night
 ![image](https://user-images.githubusercontent.com/76500838/205454490-0a654393-dfa7-42c6-b997-b2c8084c045c.png)

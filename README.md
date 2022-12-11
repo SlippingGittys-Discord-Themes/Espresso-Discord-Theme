@@ -18,6 +18,9 @@
 ## Tan
 ![image](https://user-images.githubusercontent.com/76500838/205454527-57a32aca-fed0-47d8-8ad1-37df745fb1cc.png)
 
+## French Vanilla
+![image](https://user-images.githubusercontent.com/76500838/206921993-aea69b03-16e0-4622-906c-90484e3b7b84.png)
+
 ## Tokyo Night
 ![image](https://user-images.githubusercontent.com/76500838/205454490-0a654393-dfa7-42c6-b997-b2c8084c045c.png)
 

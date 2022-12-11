@@ -1,0 +1,18 @@
+:root {
+    --PGBackground: #e4d8c0;
+    --PGBackground2: #e8bd8b;
+    --PGTextBackground: #e8bd8b;
+    --accent: rgb(102, 38, 20);
+    --accent-hover: rgba(102, 38, 20, 0.977);
+    --accent-selected: rgb(102, 38, 20, 0.612);
+    --accent-focused: rgb(102, 38, 20, 0.2);
+  }
+  
+.theme-light .channelName-3KPsGw,
+.theme-light .subtitle-3PyFgf,
+.theme-light .topic-11NuQZ,
+.theme-light .expandable-3CaLeS,
+.theme-light .title-17SveM,
+.theme-light .item-1OdjEX {
+  color: var(--accent-hover);
+}

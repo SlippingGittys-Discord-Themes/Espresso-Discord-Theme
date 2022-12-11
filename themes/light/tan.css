@@ -2,6 +2,7 @@
   --PGBackground: #FFE6E6;
   --PGBackground2: #F2D1D1;
   --PGTextBackground: #F2D1D1;
+  --accent: rgb(133, 59, 59);
   --accent-hover: rgba(133, 59, 59, 0.977);
   --accent-selected: rgb(133, 59, 59, 0.612);
   --accent-focused: rgb(133, 59, 59, 0.2);

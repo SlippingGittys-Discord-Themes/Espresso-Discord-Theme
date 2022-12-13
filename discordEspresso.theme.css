@@ -83,6 +83,28 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 */
 
 /*
+-----------Accent Color 🖌️---------
+> This will override the accent color on the themes you've selected
+> Uncomment one or both selections if you are okay with that. 
+*/
+/* --------------------- Light --------------------- 
+:root {
+  --accent: rgb(39, 249, 253);
+  --accent-hover: rgba(39, 249, 253, 0.977);
+  --accent-selected: rgb(39, 249, 253, 0.612);
+  --accent-focused: rgb(39, 249, 253, 0.200);
+}
+*/
+/* --------------------- Dark --------------------- 
+:root {
+  --accentD: rgb(39, 249, 253); 
+  --accent-hoverD: rgba(39, 249, 253, 0.977);
+  --accent-selectedD: rgb(39, 249, 253, 0.612); 
+  --accent-focusedD: rgb(39, 249, 253, 0.200); 
+}
+*/
+
+/*
 -----------Fonts ⌨️---------
 > This imports the Product Sans (Google Sans) font
 > Removing or commenting this block of CSS will revert back to the default GG Sans font

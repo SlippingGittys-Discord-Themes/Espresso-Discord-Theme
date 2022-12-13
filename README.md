@@ -38,9 +38,8 @@
   * Follow the instructions on Vencord's themes tab
   * Copy the text in the file, and paste it in Openasar's quick CSS text field
 
-### Browser
-* Stylus
-  * Head [here](https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/raw/main/discordEspresso.user.css) to install.
+### Browser 
+ * [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](hhttps://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/raw/main/discordEspresso.user.css)
   
 <details>
 <summary> It's reccomended to turn off Snowsgiving in the Experiments tab ⚠️ </summary>

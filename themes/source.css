@@ -77,6 +77,15 @@ code,
   text-align: center;
   transition: 0.9s;
 }
+.lookFilled-yCfaCM.colorRed-rQXKgM, .lookOutlined-3yKVGo.colorRed-rQXKgM {
+  background-color: var(--background-secondary) !important;
+  border: solid 2px;
+  border-radius: 18px;
+  border-color: red;
+  color: red;
+  text-align: center;
+  transition: 0.9s;
+}
 
 .tabBar-ra-EuL .addFriend-emTWY1.addFriend-emTWY1.addFriend-emTWY1,
 .tabBar-ra-EuL .addFriend-emTWY1.addFriend-emTWY1.addFriend-emTWY1:hover {

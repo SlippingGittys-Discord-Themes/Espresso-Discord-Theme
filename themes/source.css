@@ -1016,6 +1016,18 @@ margin-bottom: 5px;
   line-height: 17px !important;
 }
 
+ .theme-dark .sidebarRegionScroller-FXiQOh {
+  border-right: solid 1px var(--accentD);
+  background-color: var(--PGBackground2D);
+  box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
+}
+
+.theme-light .sidebarRegionScroller-FXiQOh {
+  border-right: solid 1px var(--accent);
+  background-color: var(--PGBackground2);
+  box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
+}
+
 /*
   ///////////////////////////////////////
   ////////////// Title Bar

@@ -979,6 +979,42 @@ code,
   text-align: center;
 }
 
+.theme-dark .side-2ur1Qk .item-3XjbnG:hover {
+  margin-left: 5px;
+  border-left: solid 1px var(--accentD);
+  transition: 0.3s;
+  border-radius: 1px;
+  text-align: center;
+}
+
+.theme-light .side-2ur1Qk .item-3XjbnG:hover {
+  margin-left: 5px;
+  border-left: solid 1px var(--accent);
+  transition: 0.3s;
+  border-radius: 1px;
+  text-align: center;
+}
+
+.theme-dark .side-2ur1Qk .header-2Kx1US {
+color: var(--accentD);
+text-align: center;
+margin-bottom: 5px;
+}
+
+.theme-light .side-2ur1Qk .header-2Kx1US {
+  color: var(--accent);
+  text-align: center;
+  margin-bottom: 5px;
+  }
+
+.info-3pQQBb > span:first-child::after {
+  content: "\a Espresso (12.2022)";
+  color: var(--text-muted);
+  white-space: pre;
+  text-transform: none;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", sans-serif;
+  line-height: 17px !important;
+}
 
 /*
   ///////////////////////////////////////

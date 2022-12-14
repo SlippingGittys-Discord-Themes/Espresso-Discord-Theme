@@ -69,22 +69,24 @@ code,
 .theme-light .full-motion .button-1_oXub,
 .theme-light .lookFilled-yCfaCM.colorBrand-I6CyqQ,
 .theme-light .navButtonActive-1EqC5l {
-  background-color: var(--background-secondary) !important;
-  border: solid 2px;
-  border-radius: 18px;
-  border-color: var(--accent);
-  color: var(--accent);
-  text-align: center;
-  transition: 0.9s;
+    background-color: var(--background-secondary) !important;
+    border: solid 2px;
+    border-radius: 18px;
+    border-color: var(--accent);
+    color: var(--accent);
+    text-align: center;
+    transition: 0.9s;
 }
-.lookFilled-yCfaCM.colorRed-rQXKgM, .lookOutlined-3yKVGo.colorRed-rQXKgM {
-  background-color: var(--background-secondary) !important;
-  border: solid 2px;
-  border-radius: 18px;
-  border-color: red;
-  color: red;
-  text-align: center;
-  transition: 0.9s;
+
+.lookFilled-yCfaCM.colorRed-rQXKgM,
+.lookOutlined-3yKVGo.colorRed-rQXKgM {
+    background-color: var(--background-secondary) !important;
+    border: solid 2px;
+    border-radius: 18px;
+    border-color: red;
+    color: red;
+    text-align: center;
+    transition: 0.9s;
 }
 
 .tabBar-ra-EuL .addFriend-emTWY1.addFriend-emTWY1.addFriend-emTWY1,
@@ -144,12 +146,14 @@ code,
     color: var(--accentD);
 }
 
-.icon-1zidb7, .icon-E4cW1l {
-  color: var(--accent);
+.icon-1zidb7,
+.icon-E4cW1l {
+    color: var(--accent);
 }
 
-.theme-dark .icon-1zidb7, .theme-dark .icon-E4cW1l {
-  color: var(--accentD);
+.theme-dark .icon-1zidb7,
+.theme-dark .icon-E4cW1l {
+    color: var(--accentD);
 }
 
 .theme-light .clickable-ZD7xvu .icon-2xnN2Y {
@@ -163,13 +167,13 @@ code,
 .theme-dark .full-motion .button-1_oXub,
 .theme-dark .lookFilled-yCfaCM.colorBrand-I6CyqQ,
 .theme-dark .navButtonActive-1EqC5l {
-  background-color: var(--background-secondary) !important;
-  border: solid 2px;
-  border-radius: 18px;
-  border-color: var(--accentD);
-  color: var(--accentD);
-  text-align: center;
-  transition: 0.9s;
+    background-color: var(--background-secondary) !important;
+    border: solid 2px;
+    border-radius: 18px;
+    border-color: var(--accentD);
+    color: var(--accentD);
+    text-align: center;
+    transition: 0.9s;
 }
 
 .theme-dark .button-2b4VEQ.buttonSize-3QlBTl:hover,
@@ -946,95 +950,95 @@ code,
 .theme-dark .profileBannerPreview-3mLIdO,
 .banner-2boKnS .theme-dark .accountProfileCard-lbN7n-,
 .theme-dark .profileBannerPreview-3mLIdO {
-  box-shadow: 1px 1px 1px 1px brgba(0, 0, 0, 0.198);
-  border-right: solid 2px var(--accentD);
-  background-color: var(--PGBackground2D);
-  border-radius: 1px;
+    box-shadow: 1px 1px 1px 1px brgba(0, 0, 0, 0.198);
+    border-right: solid 2px var(--accentD);
+    background-color: var(--PGBackground2D);
+    border-radius: 1px;
 }
 
 .theme-dark .background-3d_SjE,
 .theme-dark .fieldList-in8WkP {
-  background-color: var(--PGBackground2D);
+    background-color: var(--PGBackground2D);
 }
 
 .theme-light .accountProfileCard-lbN7n-,
 .theme-light .profileBannerPreview-3mLIdO,
 .banner-2boKnS .theme-light .accountProfileCard-lbN7n-,
 .theme-light .profileBannerPreview-3mLIdO {
-  box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
-  border-right: solid 2px var(--accent);
-  background-color: var(--PGBackground2);
-  border-radius: 1px;
+    box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
+    border-right: solid 2px var(--accent);
+    background-color: var(--PGBackground2);
+    border-radius: 1px;
 }
 
 .theme-light .background-3d_SjE,
 .theme-light .fieldList-in8WkP {
-  background-color: var(--PGBackground2);
+    background-color: var(--PGBackground2);
 }
 
 .theme-dark .side-2ur1Qk .item-3XjbnG:hover {
-  margin-left: 5px;
-  border-left: solid 1px var(--accentD);
-  transition: 0.3s;
-  border-radius: 1px;
-  text-align: center;
+    margin-left: 5px;
+    border-left: solid 1px var(--accentD);
+    transition: 0.3s;
+    border-radius: 1px;
+    text-align: center;
 }
 
 .theme-light .side-2ur1Qk .item-3XjbnG:hover {
-  margin-left: 5px;
-  border-left: solid 1px var(--accent);
-  transition: 0.3s;
-  border-radius: 1px;
-  text-align: center;
+    margin-left: 5px;
+    border-left: solid 1px var(--accent);
+    transition: 0.3s;
+    border-radius: 1px;
+    text-align: center;
 }
 
 .theme-dark .side-2ur1Qk .item-3XjbnG:hover {
-  margin-left: 5px;
-  border-left: solid 1px var(--accentD);
-  transition: 0.3s;
-  border-radius: 1px;
-  text-align: center;
+    margin-left: 5px;
+    border-left: solid 1px var(--accentD);
+    transition: 0.3s;
+    border-radius: 1px;
+    text-align: center;
 }
 
 .theme-light .side-2ur1Qk .item-3XjbnG:hover {
-  margin-left: 5px;
-  border-left: solid 1px var(--accent);
-  transition: 0.3s;
-  border-radius: 1px;
-  text-align: center;
+    margin-left: 5px;
+    border-left: solid 1px var(--accent);
+    transition: 0.3s;
+    border-radius: 1px;
+    text-align: center;
 }
 
 .theme-dark .side-2ur1Qk .header-2Kx1US {
-color: var(--accentD);
-text-align: center;
-margin-bottom: 5px;
+    color: var(--accentD);
+    text-align: center;
+    margin-bottom: 5px;
 }
 
 .theme-light .side-2ur1Qk .header-2Kx1US {
-  color: var(--accent);
-  text-align: center;
-  margin-bottom: 5px;
-  }
-
-.info-3pQQBb > span:first-child::after {
-  content: "\a Espresso (12.2022)";
-  color: var(--text-muted);
-  white-space: pre;
-  text-transform: none;
-  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", sans-serif;
-  line-height: 17px !important;
+    color: var(--accent);
+    text-align: center;
+    margin-bottom: 5px;
 }
 
- .theme-dark .sidebarRegionScroller-FXiQOh {
-  border-right: solid 1px var(--accentD);
-  background-color: var(--PGBackground2D);
-  box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
+.info-3pQQBb>span:first-child::after {
+    content: "\a Espresso (12.2022)";
+    color: var(--text-muted);
+    white-space: pre;
+    text-transform: none;
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", sans-serif;
+    line-height: 17px !important;
+}
+
+.theme-dark .sidebarRegionScroller-FXiQOh {
+    border-right: solid 1px var(--accentD);
+    background-color: var(--PGBackground2D);
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
 }
 
 .theme-light .sidebarRegionScroller-FXiQOh {
-  border-right: solid 1px var(--accent);
-  background-color: var(--PGBackground2);
-  box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
+    border-right: solid 1px var(--accent);
+    background-color: var(--PGBackground2);
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
 }
 
 /*
@@ -1187,22 +1191,25 @@ margin-bottom: 5px;
 
 .platform-win .sidebar-1tnWFu .header-3OsQeK,
 .platform-win .sidebar-1tnWFu .searchBarComponent-3N7dCG {
-  -webkit-app-region: no-drag;
+    -webkit-app-region: no-drag;
 }
+
 .platform-win .sidebar-1tnWFu .searchBar-3TnChZ {
-  -webkit-app-region: drag;
+    -webkit-app-region: drag;
 }
 
 .chat-2ZfjoI {
-  z-index: 103;
+    z-index: 103;
 }
+
 .chat-2ZfjoI .container-ZMc96U {
-  -webkit-app-region: drag;
+    -webkit-app-region: drag;
 }
+
 .chat-2ZfjoI .container-ZMc96U .topic-11NuQZ,
 .chat-2ZfjoI .container-ZMc96U .title-17SveM,
 .chat-2ZfjoI .container-ZMc96U .nicknames-10Sg6e {
-  -webkit-app-region: no-drag;
+    -webkit-app-region: no-drag;
 }
 
 .platform-win .typeWindows-2-g3UY .winButton-3UMjdg svg {
@@ -1355,8 +1362,8 @@ margin-bottom: 5px;
 
 .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub,
 .wrapper-3kah-n:hover .childWrapper-1j_1ub {
-  background-color: rgba(0, 0, 0, 0);
-  box-shadow: inset 5px 6px 6px 1px rgba(0, 0, 0, 0.198);
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: inset 5px 6px 6px 1px rgba(0, 0, 0, 0.198);
 }
 
 /* Settings Icons */
@@ -1386,4 +1393,47 @@ margin-bottom: 5px;
     d: path("M7 40q-1.15 0-2.075-.925Q4 38.15 4 37V11q0-1.15.925-2.075Q5.85 8 7 8h12.8q.6 0 1.175.25.575.25.975.65l2.1 2.1H41q1.15 0 2.075.925Q44 12.85 44 14H10q-1.25 0-2.125.875T7 17v20l4.5-17.75q.25-1 1.1-1.625.85-.625 1.85-.625H43.1q1.45 0 2.4 1.15t.55 2.6l-4.4 16.95q-.3 1.2-1.1 1.75T38.5 40Z");
     transform: scale(.48, .48);
     fill: var(--accentD);
+}
+
+/* 
+  ///////////////////////////////////////////
+  //////////// Special Client Mod Bullshit
+  ///////////////////////////////////////////
+*/
+
+/* BetterDiscord */
+.theme-dark .bd-addon-list.bd-grid-view .bd-addon-card,
+.theme-dark .bd-addon-list .bd-addon-card {
+    border-right: solid 2px var(--accentD);
+    background-color: var(--PGBackground2D);
+    border-radius: 1px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.198);
+}
+
+.theme-light .bd-addon-list.bd-grid-view .bd-addon-card,
+.theme-light .bd-addon-list .bd-addon-card {
+    border-right: solid 2px var(--accent);
+    background-color: var(--PGBackground2);
+    border-radius: 1px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.198);
+}
+
+.theme-light .bd-button {
+    background-color: var(--accent) !important;
+    border: solid 2px;
+    border-radius: 18px;
+    border-color: var(--accent);
+    color: var(--PGBackground);
+    text-align: center;
+    transition: 0.9s;
+}
+
+.theme-dark .bd-button {
+    background-color: var(--accentD) !important;
+    border: solid 2px;
+    border-radius: 18px;
+    border-color: var(--accentD);
+    color: var(--PGBackgroundD);
+    text-align: center;
+    transition: 0.9s;
 }

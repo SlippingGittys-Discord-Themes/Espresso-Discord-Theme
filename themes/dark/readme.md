@@ -1,3 +1,6 @@
+## Material Dark
+![image](https://user-images.githubusercontent.com/76500838/207605862-4fbf829d-eaa5-49c3-a4e7-a21119693ccc.png)
+
 ## Tokyo Night
 ![image](https://user-images.githubusercontent.com/76500838/205454490-0a654393-dfa7-42c6-b997-b2c8084c045c.png)
 

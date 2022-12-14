@@ -7,6 +7,59 @@
   --accent-hoverD: rgb(187, 49, 67, 0.977);
   --accent-selectedD: rgb(187, 49, 67, 0.612);
   --accent-focusedD: rgb(187, 49, 67, 0.200);
+  --accent-fobD: rgba(187, 49, 67, 0.734);
+  --accent-keysD: rgb(98, 112, 150);
+  --accent-keys-lightD: rgb(98, 112, 150, 0.612);
+  --accent-titlesD: rgb(213, 213, 213);
+}
+
+/* Buttons, Icons, Scrollers, Titles, and Text */
+.theme-dark .iconWrapper-2awDjA .icon-2xnN2Y, .theme-dark .stickerIcon-3Jx5SE, .theme-dark .icon-1d5zch, .theme-dark .circleIcon-3489FI, .theme-dark .buttonWrapper-3YFQGJ {
+  color: var(--accent-keysD);
+}
+.theme-dark .item-3mHhwr .item-3XjbnG .themed-2-lozF[aria-controls="add_friend-tab"] {
+  background-color: var(--accent-hoverD) !important;
+}
+.theme-dark .clickable-ZD7xvu .icon-2xnN2Y, .theme-dark .linkButtonIcon-7rsZcu {
+  color: var(--accent-titlesD) !important;
+}
+.theme-dark .contents-3ca1mk .button-2fCJ0o .button-3BaQ4X {
+  color: var(--accent-keysD);
+}
+.theme-dark .circleIcon-3489FI {
+  color: var(--accent-keys-lightD) !important;
+}
+.theme-dark .name-28HaxV, .theme-dark .membersGroup-2eiWxl {
+  color: var(--accent-keysD);
+}
+.theme-dark .addButtonIcon-3rJeaD, .theme-dark .modeUnread-3Cxepe .icon-2W8DHg, .theme-dark .unreadRelevant-2f-VSK {
+  color: var(--accent-titlesD) !important;
+}
+.theme-dark .messageContent-2t3eCI, .theme-dark .modeConnected-NrO4cP .name-28HaxV, .theme-dark .modeConnected-NrO4cP:hover .name-28HaxV, .theme-dark .modeSelected-3DmyhH .name-28HaxV, .theme-dark .modeSelected-3DmyhH:hover .name-28HaxV, .theme-dark .modeUnread-3Cxepe .name-28HaxV, .theme-dark .modeUnread-3Cxepe:hover .name-28HaxV, .theme-dark .notInteractive-2tFrlE.modeConnected-NrO4cP .name-28HaxV, .theme-dark .notInteractive-2tFrlE.modeSelected-3DmyhH .name-28HaxV {
+  color: var(--accent-titlesD) !important;
+}
+.theme-dark .modeSelected-3DmyhH .icon-2W8DHg, .theme-dark .modeSelected-3DmyhH:hover .icon-2W8DHg, .theme-dark .modeUnread-3Cxepe .icon-2W8DHg, .theme-dark .modeUnread-3Cxepe:hover .icon-2W8DHg, .theme-dark .mainContent-uDGa6R .overflow-1wOqNV, .theme-dark .mainContent-uDGa6R {
+  color: var(--accent-titlesD) !important;
+}
+
+.theme-dark .unreadMentionsIndicatorTop-2bTgUU .unreadMentionsBar-ZXXoOH,
+.theme-dark .unreadMentionsIndicatorBottom-3RJMnQ .unreadMentionsBar-ZXXoOH,
+.theme-dark .unreadMentionsIndicatorTop-2bTgUU .unreadMentionsBar-ZXXoOH,
+.numberBadge-37OJ3S,
+.unreadRelevant-2f-VSK,
+.newBadge-1bHewI {
+  background:var(--accentD) !important;
+}
+.theme-dark .attachButtonPlus-3IYelE {
+  fill: var(--accent-fobD) !important;
+}
+.theme-dark .button-f2h6uQ .contents-3ca1mk {
+  fill: var(--accent-fobD) !important;
+  --button--underline-color: rgba(222, 0, 0, 0);
+  background-image: linear-gradient(0deg, transparent, transparent 1px, var(--button--underline-color) 0, var(--button--underline-color) 2px, transparent 0);
+}
+.theme-dark .scroller-kQBbkU::-webkit-scrollbar-thumb, .theme-dark .auto-2K3UW5::-webkit-scrollbar-thumb, .theme-dark .thin-31rlnD::-webkit-scrollbar-thumb, .theme-dark .peopleColumn-1wMU14::-webkit-scrollbar-thumb {
+  background-color: var(--accent-fobD);
 }
 
 .theme-dark [d="M14.99 11C14.99 12.66 13.66 14 12 14C10.34 14 9 12.66 9 11V5C9 3.34 10.34 2 12 2C13.66 2 15 3.34 15 5L14.99 11ZM12 16.1C14.76 16.1 17.3 14 17.3 11H19C19 14.42 16.28 17.24 13 17.72V22H11V17.72C7.72 17.23 5 14.41 5 11H6.7C6.7 14 9.24 16.1 12 16.1Z"] {

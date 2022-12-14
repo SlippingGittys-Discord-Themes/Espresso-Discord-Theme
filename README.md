@@ -23,7 +23,8 @@
 ![image](https://user-images.githubusercontent.com/76500838/205454490-0a654393-dfa7-42c6-b997-b2c8084c045c.png)
 
 ## ThinkPad 
-![image](https://user-images.githubusercontent.com/76500838/205515935-eef67991-5bb3-497c-bb90-8b2dd96aad15.png)
+![Screenshot 2022-12-13 at 11 00 38 PM](https://user-images.githubusercontent.com/76500838/207510030-a461ce80-0fc2-4089-965d-d18ed60d85bb.png)
+
 
 ## OLED
 ![kCi8sKg7M2](https://user-images.githubusercontent.com/76500838/205515149-de37e945-77fb-4dc1-beca-c5b45056a006.png)

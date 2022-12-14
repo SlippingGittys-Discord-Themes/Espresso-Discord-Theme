@@ -963,6 +963,22 @@ code,
   background-color: var(--PGBackground2);
 }
 
+.theme-dark .side-2ur1Qk .item-3XjbnG:hover {
+  margin-left: 5px;
+  border-left: solid 1px var(--accentD);
+  transition: 0.3s;
+  border-radius: 1px;
+  text-align: center;
+}
+
+.theme-light .side-2ur1Qk .item-3XjbnG:hover {
+  margin-left: 5px;
+  border-left: solid 1px var(--accent);
+  transition: 0.3s;
+  border-radius: 1px;
+  text-align: center;
+}
+
 
 /*
   ///////////////////////////////////////

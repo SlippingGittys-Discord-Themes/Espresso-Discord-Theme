@@ -146,6 +146,14 @@ code,
     color: var(--accentD);
 }
 
+.theme-dark .markup-eYLPri a {
+  color: var(--accentD);
+}
+
+.theme-light .markup-eYLPri a {
+  color: var(--accent);
+}
+
 .icon-1zidb7,
 .icon-E4cW1l {
     color: var(--accent);

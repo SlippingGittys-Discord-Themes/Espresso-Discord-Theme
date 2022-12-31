@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto');
 
 * {
-  font-family: 'Roboto';
+  --font-primary: Roboto;
+  --font-display: Roboto;
+  --font-headline: Roboto;
   text-rendering: optimizeLegibility;
   text-transform: none !important;
 }

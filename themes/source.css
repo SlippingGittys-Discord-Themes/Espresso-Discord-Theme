@@ -147,11 +147,11 @@ code,
 }
 
 .theme-dark .markup-eYLPri a {
-  color: var(--accentD);
+    color: var(--accentD);
 }
 
 .theme-light .markup-eYLPri a {
-  color: var(--accent);
+    color: var(--accent);
 }
 
 .icon-1zidb7,
@@ -651,12 +651,30 @@ code,
     padding: 0.5rem 1rem 1rem 0.75rem;
 }
 
-.newMessagesBar-1hF-9G {
+.theme-light .newMessagesBar-1hF-9G {
     margin-top: 10px;
     margin-right: 100px;
-    border-radius: 5px;
-    background-color: var(--accent);
+    border-radius: 1px;
+    border-right: 4px solid var(--accent);
+    background: var(--PGBackground2);
+    color: black;
     box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.54);
+}
+
+.theme-light .jumpToPresentBar-1cEnH0 {
+    margin-bottom: 12px;
+    padding-bottom: 2px;
+    margin-right: 100px;
+    border-radius: 1px;
+    border-right: 4px solid var(--accent);
+    background: var(--PGBackground2);
+    box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.54);
+}
+
+.theme-light .barButtonMain-2GIx4o,
+.theme-light .span-3lFnWr,
+.theme-light .app-2CXKsg button {
+    color: black;
 }
 
 .messageContainer-3VTXBC,
@@ -738,8 +756,19 @@ code,
 .theme-dark .newMessagesBar-1hF-9G {
     margin-top: 10px;
     margin-right: 100px;
-    border-radius: 5px;
-    background-color: var(--accentD);
+    border-radius: 1px;
+    border-right: 4px solid var(--accentD);
+    background: var(--PGBackground2D);
+    box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.54);
+}
+
+.theme-dark .jumpToPresentBar-1cEnH0 {
+    margin-bottom: 12px;
+    padding-bottom: 2px;
+    margin-right: 100px;
+    border-radius: 1px;
+    border-right: 4px solid var(--accentD);
+    background: var(--PGBackground2D);
     box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.54);
 }
 

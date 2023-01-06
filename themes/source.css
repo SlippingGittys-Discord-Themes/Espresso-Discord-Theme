@@ -313,6 +313,15 @@ code,
     transition: .5s;
 }
 
+.theme-light .unread-2wipsx {
+    border-radius: 3px;
+    border-left: 4px solid var(--accent);
+    margin-right: 9px;
+    margin-left: 15px;
+    background: var(--PGBackground2);
+    color: var(--accent);
+}
+
 /* Dark */
 .theme-dark .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG,
 .theme-dark .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG,
@@ -342,6 +351,15 @@ code,
     width: 4px;
     border-radius: 5px 5px 5px 5px;
     transition: 0.5s;
+}
+
+.theme-dark .unread-2wipsx {
+    border-radius: 3px;
+    border-left: 4px solid var(--accentD);
+    background: var(--PGBackground2D);
+    box-shadow: var(--accentD);
+    margin-right: 9px;
+    margin-left: 15px;
 }
 
 /* "New" Mentions */

@@ -22,6 +22,19 @@
 ## Material Dark
 ![image](https://user-images.githubusercontent.com/76500838/207605611-867d9cb9-965c-4d92-9df0-9d7f15c19a72.png)
 
+## Fuoco
+![Screenshot 2023-01-06 at 4 36 58 PM](https://user-images.githubusercontent.com/76500838/211111737-2c9e8f49-4845-4ec1-8a41-d3b823354ab3.png)
+
+## Dark Pastel
+![Screenshot 2023-01-06 at 4 38 44 PM](https://user-images.githubusercontent.com/76500838/211111809-889a5d8f-1ea1-481a-99d2-d91250134186.png)
+
+## Twitter Blue
+![Screenshot 2023-01-06 at 4 39 32 PM](https://user-images.githubusercontent.com/76500838/211111884-862cf444-35db-49cf-b911-f7565af4595f.png)
+
+## Evening
+![Screenshot 2023-01-06 at 4 43 27 PM](https://user-images.githubusercontent.com/76500838/211112296-5e5aa4d0-0f03-49db-aabc-0d4c8a958bf9.png)
+
+
 ## Tokyo Night
 ![image](https://user-images.githubusercontent.com/76500838/205454490-0a654393-dfa7-42c6-b997-b2c8084c045c.png)
 
@@ -44,12 +57,6 @@
 ### Browser 
  * [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/raw/main/discordEspresso.user.css)
   
-<details>
-<summary> It's reccomended to turn off Snowsgiving in the Experiments tab ⚠️ </summary>
-
-![image](https://user-images.githubusercontent.com/76500838/206277747-f50f6306-be0e-40d0-b613-cca2a20c4505.png)
-
-</details>
   
 ## What is this theme? 
 Espresso is a soft and colorful Discord theme with a very liberal interpretation of Material Design guidelines.

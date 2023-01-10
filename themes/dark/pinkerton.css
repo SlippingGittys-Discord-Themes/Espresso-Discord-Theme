@@ -8,3 +8,7 @@
   --accent-selectedD: rgb(213, 206, 163, 0.612);
   --accent-focusedD: rgb(213, 206, 163, 0.2);
 }
+
+.theme-dark .name-28HaxV {
+  color: var(--accent-selectedD)
+}

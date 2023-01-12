@@ -1,7 +1,7 @@
 :root {
-  --PGBackgroundD: rgb(5,8,12);
-  --PGBackground2D: rgb(12,11,5);
-  --PGTextBackgroundD: rgb(0,0,0);
+  --PGBackgroundD: rgb(5,8,12, 0.300);
+  --PGBackground2D: rgb(12,11,5, 0.800);
+  --PGTextBackgroundD: rgb(0,0,0, 0.300);
   --PGColorTextD: rgb(255, 248, 235);
   --accentD: rgb(213, 206, 163);
   --accent-hoverD: rgba(213, 206, 163, 0.977);
@@ -9,6 +9,14 @@
   --accent-focusedD: rgb(213, 206, 163, 0.2);
 }
 
+body {
+  background-image: url("https://files.catbox.moe/09fgs6.png");
+ }
+
 .theme-dark .name-28HaxV {
   color: var(--accent-selectedD)
+}
+
+.theme-dark .contentWrapper-3vHNP2, .theme-dark .popout-3gby1q, .theme-dark .drawerSizingWrapper-1txdWG, .theme-dark .quickswitcher-pKcM9U {
+    background-color: rgb(5,8,12);
 }

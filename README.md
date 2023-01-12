@@ -22,6 +22,9 @@
 ## Material Dark
 ![image](https://user-images.githubusercontent.com/76500838/207605611-867d9cb9-965c-4d92-9df0-9d7f15c19a72.png)
 
+## Clear - Replacable background image! - See instructions [here](https://raw.githubusercontent.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/main/themes/dark/clear.css)
+![Screenshot 2023-01-11 at 10 32 27 PM](https://user-images.githubusercontent.com/76500838/211976823-c10d3abe-1e13-41c4-a7a4-f324f894f46b.png)
+
 ## Fuoco
 ![Screenshot 2023-01-06 at 4 36 58 PM](https://user-images.githubusercontent.com/76500838/211111737-2c9e8f49-4845-4ec1-8a41-d3b823354ab3.png)
 
@@ -33,7 +36,6 @@
 
 ## Evening
 ![Screenshot 2023-01-06 at 4 43 27 PM](https://user-images.githubusercontent.com/76500838/211112296-5e5aa4d0-0f03-49db-aabc-0d4c8a958bf9.png)
-
 
 ## Tokyo Night
 ![image](https://user-images.githubusercontent.com/76500838/205454490-0a654393-dfa7-42c6-b997-b2c8084c045c.png)

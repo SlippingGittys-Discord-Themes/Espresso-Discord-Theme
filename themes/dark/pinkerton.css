@@ -1,6 +1,7 @@
 :root {
   --PGBackgroundD: rgb(5,8,12, 0.300);
   --PGBackground2D: rgb(12,11,5, 0.800);
+  --PGBackground3D: rgb(5,8,12);
   --PGTextBackgroundD: rgb(0,0,0, 0.300);
   --PGColorTextD: rgb(255, 248, 235);
   --accentD: rgb(213, 206, 163);
@@ -18,5 +19,5 @@ body {
 }
 
 .theme-dark .contentWrapper-3vHNP2, .theme-dark .popout-3gby1q, .theme-dark .drawerSizingWrapper-1txdWG, .theme-dark .quickswitcher-pKcM9U {
-    background-color: rgb(5,8,12);
+    background-color: var(--PGBackground3D)
 }

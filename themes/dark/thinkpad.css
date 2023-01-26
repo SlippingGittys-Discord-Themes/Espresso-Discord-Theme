@@ -82,3 +82,14 @@ i.fa.fa-cog.fa-fw.fa-cog:before {
 i.fa.fa-sign-out.fa-fw:before {
         color: rgb(98, 112, 150) !important;
 }
+.i-ri\:hashtag, [i-ri\:hashtag=""]  {
+    color: rgba(187, 49, 67) !important;;
+}
+
+.i-ri\:group-2-line, [i-ri\:group-2-line=""] {
+    color: rgb(14, 168, 62) !important;
+}
+
+.i-ri\:earth-line, [i-ri\:earth-line=""] {
+    color: rgb(98, 112, 150) !important;
+}

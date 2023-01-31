@@ -1201,7 +1201,7 @@ code,
 }
 
 .info-3pQQBb>span:first-child::after {
-    content: "\a Espresso (12.2022)";
+    content: "\a Espresso with Milk (2.2023)";
     color: var(--text-muted);
     white-space: pre;
     text-transform: none;

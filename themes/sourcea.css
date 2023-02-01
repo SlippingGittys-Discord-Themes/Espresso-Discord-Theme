@@ -1,4 +1,71 @@
-/*------------------- Source to Project Garrison --------------*/
+/* 
+--------- Experiments 🥃 --------- 
+> Stuff I'm trying */
+
+/* FOB Dark  */
+.theme-dark .attachButton-_ACFSu {
+  background: var(--PGBackground2D);
+  border-radius: 15px;
+  height: 40px;
+  width: 40px;
+  box-shadow: 1px 1px 10px #0000007a;
+  border: none;
+}
+
+.theme-dark .attachButton-_ACFSu:hover {
+  background: var(--accent-selectedD);
+  border-radius: 10px;
+  height: 40px;
+  width: 40px;
+  box-shadow: 1px 1px 10px #0000007a;
+  transition: .3s;
+}
+
+.theme-dark [d="M12 2.00098C6.486 2.00098 2 6.48698 2 12.001C2 17.515 6.486 22.001 12 22.001C17.514 22.001 22 17.515 22 12.001C22 6.48698 17.514 2.00098 12 2.00098ZM17 13.001H13V17.001H11V13.001H7V11.001H11V7.00098H13V11.001H17V13.001Z"] {
+  d: path("M22.5 38V25.5H10v-3h12.5V10h3v12.5H38v3H25.5V38Z");
+  transform: scale(.50, .50);
+  fill: var(--accentD);
+}
+
+.theme-dark .attachWrapper-3slhXI {
+    padding-right: 10px;
+}
+
+.theme-dark .attachButtonInner-2mwer8 {
+    height: 35px;
+    margin-left: -13px;
+}
+
+/* Chat Text Shit */
+.theme-dark .scrollableContainer-15eg7h {
+  background-color: #00000000;
+}
+.theme-dark .buttons-uaqb-5 {
+  border: solid 0px;
+  border-radius: 15px;
+  border-color: var(--accentD);
+  background-color: var(--PGBackground2D);
+  margin-left: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-bottom: -1px;
+  box-shadow: inset 1px 1px 10px #0000007a;
+}
+.theme-dark .webkit-QgSAqd .buttons-uaqb-5 {
+  margin-right: 0px;
+}
+.theme-dark .textArea-2CLwUE {
+  border: solid 0px;
+  border-color: var(--accentD);
+  border-radius: 15px;
+  background-color: var(--PGBackground2D);
+  margin-top: 1px;
+  margin-right: 5px;
+  box-shadow: inset 1px 1px 10px #0000007a;
+}
+
+
+/*------------------- Source to Project Garrison Alpha -------------------*/
 
 
 
@@ -643,22 +710,11 @@ code,
  /* FOB Dark  */
 .theme-dark .attachButton-_ACFSu {
     margin-top: 3px;
-    border: solid 1px var(--accentD);
-    background-color: var(--PGBackground2D);
-    border-radius: 10px;
     height: 40px;
     width: 40px;
     box-shadow: 1px 1px 10px #0000007a;
   }
   
-  .theme-dark .attachButton-_ACFSu:hover {
-    background: var(--accent-selectedD);
-    border-radius: 10px;
-    height: 40px;
-    width: 40px;
-    box-shadow: 1px 1px 10px #0000007a;
-    transition: .3s;
-  }
   
   .theme-dark [d="M12 2.00098C6.486 2.00098 2 6.48698 2 12.001C2 17.515 6.486 22.001 12 22.001C17.514 22.001 22 17.515 22 12.001C22 6.48698 17.514 2.00098 12 2.00098ZM17 13.001H13V17.001H11V13.001H7V11.001H11V7.00098H13V11.001H17V13.001Z"] {
     d: path("M22.5 38V25.5H10v-3h12.5V10h3v12.5H38v3H25.5V38Z");
@@ -680,10 +736,6 @@ code,
     background-color: #00000000;
   }
   .theme-dark .buttons-uaqb-5 {
-    border: solid 1px;
-    border-radius: 10px;
-    border-color: var(--accentD);
-    background-color: var(--PGBackground2D);
     margin-left: 5px;
     padding-right: 5px;
     padding-left: 5px;
@@ -693,9 +745,6 @@ code,
     margin-right: 0px;
   }
   .theme-dark .textArea-2CLwUE {
-    border: solid 1px;
-    border-color: var(--accentD);
-    border-radius: 10px;
     background-color: var(--PGBackground2D);
     margin-top: 1px;
     margin-right: 5px;
@@ -880,11 +929,6 @@ code,
 }
 
 /* Dark */
-
-.theme-dark .scrollableContainer-15eg7h:hover {
-    transition: 0.3s;
-    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
-}
 
 .theme-dark .embedFull-1HGV2S {
     border-left: 4px solid var(--background-tertiary);

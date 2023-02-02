@@ -1487,8 +1487,12 @@ code,
     margin-right: -13px;
 }
 
-.optionIcon-1Ft8w0 {
+.theme-dark .optionIcon-1Ft8w0 {
   color: var(--accentD);
+}
+
+.theme-light .optionIcon-1Ft8w0 {
+  color: var(--accent);
 }
 
 /* 

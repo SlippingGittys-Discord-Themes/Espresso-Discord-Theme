@@ -845,6 +845,16 @@ code,
     box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.198);
 }
 
+.theme-dark .placeholder-1rCBhr {
+  color: var(--accent-selectedD);
+  font-size: 14px;
+}
+
+.theme-light .placeholder-1rCBhr {
+  color: var(--accent-hover);
+  font-size: 14px;
+}
+
 /* Reply Highlight */
 
 #app-mount .message-2CShn3 {

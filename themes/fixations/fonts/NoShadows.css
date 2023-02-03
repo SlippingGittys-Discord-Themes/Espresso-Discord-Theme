@@ -1,0 +1,58 @@
+/*
+⠀⣞⢽⢪⢣⢣⢣⢫⡺⡵⣝⡮⣗⢷⢽⢽⢽⣮⡷⡽⣜⣜⢮⢺⣜⢷⢽⢝⡽⣝
+⠸⡸⠜⠕⠕⠁⢁⢇⢏⢽⢺⣪⡳⡝⣎⣏⢯⢞⡿⣟⣷⣳⢯⡷⣽⢽⢯⣳⣫⠇
+⠀⠀⢀⢀⢄⢬⢪⡪⡎⣆⡈⠚⠜⠕⠇⠗⠝⢕⢯⢫⣞⣯⣿⣻⡽⣏⢗⣗⠏⠀
+⠀⠪⡪⡪⣪⢪⢺⢸⢢⢓⢆⢤⢀⠀⠀⠀⠀⠈⢊⢞⡾⣿⡯⣏⢮⠷⠁⠀⠀
+⠀⠀⠀⠈⠊⠆⡃⠕⢕⢇⢇⢇⢇⢇⢏⢎⢎⢆⢄⠀⢑⣽⣿⢝⠲⠉⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⡿⠂⠠⠀⡇⢇⠕⢈⣀⠀⠁⠡⠣⡣⡫⣂⣿⠯⢪⠰⠂⠀⠀⠀⠀
+⠀⠀⠀⠀⡦⡙⡂⢀⢤⢣⠣⡈⣾⡃⠠⠄⠀⡄⢱⣌⣶⢏⢊⠂⠀⠀⠀⠀⠀⠀ no shadows?
+⠀⠀⠀⠀⢝⡲⣜⡮⡏⢎⢌⢂⠙⠢⠐⢀⢘⢵⣽⣿⡿⠁⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠨⣺⡺⡕⡕⡱⡑⡆⡕⡅⡕⡜⡼⢽⡻⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣼⣳⣫⣾⣵⣗⡵⡱⡡⢣⢑⢕⢜⢕⡝⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣴⣿⣾⣿⣿⣿⡿⡽⡑⢌⠪⡢⡣⣣⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⡟⡾⣿⢿⢿⢵⣽⣾⣼⣘⢸⢸⣞⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠁⠇⠡⠩⡫⢿⣝⡻⡮⣒⢽⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+*/
+
+
+.theme-light .panels-3wFtMD, .theme-light .container-ZMc96U.themed-Hp1KC_, .theme-light .header-3OsQeK, .theme-light .full-motion .searchBar-jGtisZ, .theme-light .scroller-kQBbkU::-webkit-scrollbar-track, .theme-light .auto-2K3UW5::-webkit-scrollbar-track, .theme-light .peopleColumn-1wMU14::-webkit-scrollbar-track {
+  border: none;
+  border-radius: 15px;
+}
+
+.theme-dark .panels-3wFtMD, .theme-dark .container-ZMc96U.themed-Hp1KC_, .theme-dark .header-3OsQeK, .theme-dark .full-motion .searchBar-jGtisZ, .theme-dark .scroller-kQBbkU::-webkit-scrollbar-track, .theme-dark .auto-2K3UW5::-webkit-scrollbar-track, .theme-dark .peopleColumn-1wMU14::-webkit-scrollbar-track {
+  border: none;
+  border-radius: 15px;
+}
+
+.theme-dark .expandedFolderBackground-1kSAf6, .theme-dark .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .theme-dark .wrapper-3kah-n:hover .childWrapper-1j_1ub {
+  background-color: var(--PGBackground2D);
+  border-radius: 15px;
+}
+
+
+.theme-light .expandedFolderBackground-1kSAf6, .theme-light .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .theme-light .wrapper-3kah-n:hover .childWrapper-1j_1ub {
+  background-color: var(--PGBackground2);
+  border-radius: 15px;
+}
+
+.theme-dark .circleIconButton-1VxDrg {
+  border-radius: 15px;
+}
+
+.theme-light .circleIconButton-1VxDrg {
+  border-radius: 15px;
+}
+
+.scroller-kQBbkU::-webkit-scrollbar-track,
+.auto-2K3UW5::-webkit-scrollbar-track,
+.peopleColumn-1wMU14::-webkit-scrollbar-track, .scroller-kQBbkU::-webkit-scrollbar-thumb,
+.auto-2K3UW5::-webkit-scrollbar-thumb,
+.thin-31rlnD::-webkit-scrollbar-thumb,
+.peopleColumn-1wMU14::-webkit-scrollbar-thumb {
+  box-shadow: inset 0px 0px 0px 0px !important; 
+}
+
+* {
+  box-shadow: 0px 0px 0px 0px !important; 
+}

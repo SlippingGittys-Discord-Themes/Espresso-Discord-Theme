@@ -1,7 +1,7 @@
 :root {
-  --PGBackgroundD: rgb(20, 2, 12);
-  --PGBackground2D: rgb(11, 17, 25);
-  --PGTextBackgroundD: rgb(20, 2, 12);
+  --PGBackgroundD: rgb(11, 17, 25);
+  --PGBackground2D: rgb(20, 2, 12);
+  --PGTextBackgroundD: rgb(11, 17, 25);
   --PGColorTextD: rgb(211, 211, 211);
   --accentD: rgb(228, 65, 131);
   --accent-hoverD: rgba(117, 134, 159, 0.977);

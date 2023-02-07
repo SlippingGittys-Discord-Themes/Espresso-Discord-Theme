@@ -35,10 +35,10 @@
   color: var(--PGColorTextD);
 }
 
-.theme-dark .messageContent-2t3eCI, .theme-dark .modeConnected-NrO4cP .name-28HaxV, .theme-dark .modeConnected-NrO4cP:hover .name-28HaxV, .theme-dark .modeSelected-3DmyhH .name-28HaxV, .theme-dark .modeSelected-3DmyhH:hover .name-28HaxV, .theme-dark .modeUnread-3Cxepe .name-28HaxV, .theme-dark .modeUnread-3Cxepe:hover .name-28HaxV, .theme-dark .notInteractive-2tFrlE.modeConnected-NrO4cP .name-28HaxV, .theme-dark .notInteractive-2tFrlE.modeSelected-3DmyhH .name-28HaxV {
+.theme-dark .modeConnected-NrO4cP .name-28HaxV, .theme-dark .modeConnected-NrO4cP:hover .name-28HaxV, .theme-dark .modeSelected-3DmyhH .name-28HaxV, .theme-dark .modeSelected-3DmyhH:hover .name-28HaxV, .theme-dark .modeUnread-3Cxepe .name-28HaxV, .theme-dark .modeUnread-3Cxepe:hover .name-28HaxV, .theme-dark .notInteractive-2tFrlE.modeConnected-NrO4cP .name-28HaxV, .theme-dark .notInteractive-2tFrlE.modeSelected-3DmyhH .name-28HaxV {
   color: var(--accent-titlesD) !important;
 }
-.theme-dark .modeSelected-3DmyhH .icon-2W8DHg, .theme-dark .modeSelected-3DmyhH:hover .icon-2W8DHg, .theme-dark .modeUnread-3Cxepe .icon-2W8DHg, .theme-dark .modeUnread-3Cxepe:hover .icon-2W8DHg, .theme-dark .mainContent-uDGa6R .overflow-1wOqNV, .theme-dark .mainContent-uDGa6R,  {
+.theme-dark .modeSelected-3DmyhH .icon-2W8DHg, .theme-dark .modeSelected-3DmyhH:hover .icon-2W8DHg, .theme-dark .modeUnread-3Cxepe .icon-2W8DHg, .theme-dark .modeUnread-3Cxepe:hover .icon-2W8DHg, .theme-dark .mainContent-uDGa6R .overflow-1wOqNV, .theme-dark .mainContent-uDGa6R {
   color: var(--accent-titlesD) !important;
 }
 

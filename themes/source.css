@@ -509,6 +509,15 @@ code,
     transition: 0.5s;
 }
 
+.theme-light .button-1EGGcP.buttonColor-3bP3fX, .theme-light .button-1EGGcP .buttonColor-3bP3fX {
+  border-radius: 16px;
+  background-color: var(--accent-selected);
+}
+
+.container-1zzFcN {
+  border-radius: 16px;
+}
+
 /* Dark */
 .theme-dark .panels-3wFtMD {
     border-radius: 15px;
@@ -517,6 +526,11 @@ code,
     margin-left: 5px;
     backdrop-filter: blur(10px);
     box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
+}
+
+.theme-dark .button-1EGGcP.buttonColor-3bP3fX, .theme-dark .button-1EGGcP .buttonColor-3bP3fX {
+  border-radius: 16px;
+  background-color: var(--accent-selectedD);
 }
 
 .theme-dark .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG {

@@ -59,6 +59,9 @@
 ### Browser 
  * [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/raw/main/discordEspresso.user.css)
   
+### Recomended & Optional plugins
+ * [BetterAnimations](https://github.com/arg0NNY/DiscordPlugins/tree/0e35f922e7755d6eb328b38cbe480786697f9dcf/BetterAnimations) by arg0NNY
+   * This plugin has a variety of different transitions and animations (i.e: switching between guilds, pop-up menus, etc), and complements this theme quite well. Feel free to give it a look!
   
 ## What is this theme? 
 Espresso is a soft and colorful Discord theme with a very liberal interpretation of Material Design guidelines.

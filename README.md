@@ -1,5 +1,7 @@
 ![espresso](https://user-images.githubusercontent.com/76500838/207240970-5f1f142f-0475-4c7a-b6a8-0b90ff3f99c3.png)
-<img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/216794694-96724e70-d0f3-4e51-a857-3a93b03b891d.png">
+<img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/221325728-f1fd1419-11d4-4cdb-b4ac-e61709dea5f0.png">
+
+
 
 <details>
 <summary>Click to show more color schemes 🎨</summary>

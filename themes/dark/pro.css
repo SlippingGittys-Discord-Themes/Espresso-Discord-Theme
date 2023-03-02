@@ -1,0 +1,10 @@
+:root {
+  --PGBackgroundD: rgb(30,30,30);
+  --PGBackground2D: rgb(50,50,50);
+  --PGTextBackgroundD: rgb(40,40,40);
+  --PGColorTextD: rgba(218, 219, 220);
+  --accentD: rgb(28,129,250);
+  --accent-hoverD: rgb(28,129,250, 0.977);
+  --accent-selectedD: rgb(28,129,250, 0.612);
+  --accent-focusedD: rgb(28,129,250, 0.200);
+}

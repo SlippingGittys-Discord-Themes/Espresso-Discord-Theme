@@ -1311,7 +1311,7 @@ code,
   //////////////////////////////
   */
 
-.theme-dark .scroller-1bVxF5,
+.theme-dark .scroller-nxCRu_,
 .theme-dark .messagesPopoutWrap-3zryHW:hover,
 .theme-dark .recentMentionsPopout-2bI1ZN {
     border-right: var(--accentD) 2px solid;
@@ -1319,7 +1319,7 @@ code,
     transition: .3s;
 }
 
-.scroller-1bVxF5,
+.scroller-nxCRu_,
 .messagesPopoutWrap-3zryHW:hover,
 .recentMentionsPopout-2bI1ZN {
     border-right: var(--accent) 2px solid;

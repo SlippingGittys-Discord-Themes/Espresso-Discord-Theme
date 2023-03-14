@@ -3,9 +3,8 @@
   --PGBackground2D: rgb(10,10,10);
   --PGTextBackgroundD: rgb(7,7,8);
   --PGColorTextD: rgba(218, 219, 220);
-  --accentD: rgb(26, 129, 251);
-  --accent-hoverD: rgba(26, 129, 251, 0.977);
-  --accent-selectedD: rgb(26, 129, 251, 0.612);
-  --accent-focusedD: rgb(26, 129, 251, 0.200);
+  --accentD: rgb(29,191,235);
+  --accent-hoverD: rgba(29,191,235, 0.977);
+  --accent-selectedD: rgb(29,191,235, 0.612);
+  --accent-focusedD: rgb(29,191,235, 0.200);
 }
-

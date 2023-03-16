@@ -68,7 +68,8 @@ code,
 .theme-light .popoutBannerPremium-2RvDNZ .pencilContainer-11Kuga,
 .theme-light .full-motion .button-1_oXub,
 .theme-light .lookFilled-1H2Jvj.colorBrand-2M3O3N,
-.theme-light .navButtonActive-1EqC5l {
+.theme-light .navButtonActive-1EqC5l,
+.theme-light .lookFilled-1H2Jvj.colorGreen-jIPCAS {
     background-color: var(--background-secondary) !important;
     border: solid 2px;
     border-radius: 18px;
@@ -90,8 +91,8 @@ code,
 }
 
 .lookFilled-GPyucw.select-Zz0IcO {
-background-color: var(--PGTextBackground);
-border-radius: 1px;
+    background-color: var(--PGTextBackground);
+    border-radius: 1px;
 }
 
 .tabBar-ra-EuL .addFriend-emTWY1.addFriend-emTWY1.addFriend-emTWY1,
@@ -173,22 +174,22 @@ border-radius: 1px;
     color: black;
 }
 
-.theme-light .rootWithShadow-2hdL2J{
-background-color: var(--PGBackground);
-border-radius: 10px;
+.theme-light .rootWithShadow-2hdL2J {
+    background-color: var(--PGBackground);
+    border-radius: 10px;
 }
 
 .theme-light .footerSeparator-3U8YsT {
-background-color: var(--PGBackground);
-border-radius: 10px;
-border-color: transparent;
-border-top: 0px rgba(255, 255, 255, 0) solid;
+    background-color: var(--PGBackground);
+    border-radius: 10px;
+    border-color: transparent;
+    border-top: 0px rgba(255, 255, 255, 0) solid;
 }
 
 .theme-light .inputDefault-Ciwd-S {
-  background-color: var(--PGTextBackground);
-  border-radius: 1px;
-  border-bottom: 1px solid var(--accent);
+    background-color: var(--PGTextBackground);
+    border-radius: 1px;
+    border-bottom: 1px solid var(--accent);
 }
 
 /* Dark */
@@ -197,7 +198,8 @@ border-top: 0px rgba(255, 255, 255, 0) solid;
 .theme-dark .popoutBannerPremium-2RvDNZ .pencilContainer-11Kuga,
 .theme-dark .full-motion .button-1_oXub,
 .theme-dark .lookFilled-1H2Jvj.colorBrand-2M3O3N,
-.theme-dark .navButtonActive-1EqC5l {
+.theme-dark .navButtonActive-1EqC5l,
+.theme-dark .lookFilled-1H2Jvj.colorGreen-jIPCAS {
     background-color: var(--background-secondary) !important;
     border: solid 2px;
     border-radius: 18px;
@@ -238,20 +240,20 @@ border-top: 0px rgba(255, 255, 255, 0) solid;
 }
 
 .theme-dark .lookFilled-GPyucw.select-Zz0IcO {
-background-color: var(--PGTextBackgroundD);
-border-radius: 1px;
+    background-color: var(--PGTextBackgroundD);
+    border-radius: 1px;
 }
 
-.theme-dark .rootWithShadow-2hdL2J{
-  background-color: var(--PGBackgroundD);
-  border-radius: 10px;
+.theme-dark .rootWithShadow-2hdL2J {
+    background-color: var(--PGBackgroundD);
+    border-radius: 10px;
 }
 
 .theme-dark .footerSeparator-3U8YsT {
-background-color: var(--PGBackgroundD);
-border-radius: 10px;
-border-color: transparent;
-border-top: 0px rgba(255, 255, 255, 0) solid;
+    background-color: var(--PGBackgroundD);
+    border-radius: 10px;
+    border-color: transparent;
+    border-top: 0px rgba(255, 255, 255, 0) solid;
 }
 
 .theme-dark .inputDefault-Ciwd-S {
@@ -1598,24 +1600,24 @@ border-top: 0px rgba(255, 255, 255, 0) solid;
 .bd-addon-list .bd-footer .bd-links,
 .bd-addon-list .bd-footer .bd-links a,
 .bd-addon-list .bd-footer .bd-addon-button {
-  border-radius: 30px;
-  margin-left: 2px;
-  margin-right: 2px;
+    border-radius: 30px;
+    margin-left: 2px;
+    margin-right: 2px;
 }
 
 /* Invisible Typing Button */
 .theme-dark .invisible-typing-button svg {
-  color: var(--accentD);
+    color: var(--accentD);
 }
 
 .theme-dark .invisible-typing-button .disabled-stroke-through {
-  fill: var(--accent-selectedD);
+    fill: var(--accent-selectedD);
 }
 
 .theme-light .invisible-typing-button svg {
-  color: var(--accent);
+    color: var(--accent);
 }
 
 .theme-light .invisible-typing-button .disabled-stroke-through {
-  fill: var(--accent-selected);
+    fill: var(--accent-selected);
 }

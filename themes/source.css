@@ -1594,3 +1594,28 @@ border-top: 0px rgba(255, 255, 255, 0) solid;
     text-align: center;
     transition: 0.9s;
 }
+
+.bd-addon-list .bd-footer .bd-links,
+.bd-addon-list .bd-footer .bd-links a,
+.bd-addon-list .bd-footer .bd-addon-button {
+  border-radius: 30px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+/* Invisible Typing Button */
+.theme-dark .invisible-typing-button svg {
+  color: var(--accentD);
+}
+
+.theme-dark .invisible-typing-button .disabled-stroke-through {
+  fill: var(--accent-selectedD);
+}
+
+.theme-light .invisible-typing-button svg {
+  color: var(--accent);
+}
+
+.theme-light .invisible-typing-button .disabled-stroke-through {
+  fill: var(--accent-selected);
+}

@@ -78,5 +78,6 @@ See the instructions [here.](https://github.com/SlippingGittys-Discord-Themes/Es
 |:-:|:-:|:-:|
 | Vozer | Discord Extensions ORG | Material Symbols |
 
+#### Support Server : https://discord.gg/na2GdxtD
 
 

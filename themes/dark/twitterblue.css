@@ -1,10 +1,10 @@
 :root {
-  --PGBackgroundD: rgba(20,29,38);
-  --PGBackground2D: rgb(36,52,71);
-  --PGTextBackgroundD: rgb	(36,52,71);
-  --PGColorTextD: rgba(218, 219, 220);
-  --accentD: rgb(29, 155, 240);
-  --accent-hoverD: rgba(29, 155, 240, 0.977);
-  --accent-selectedD: rgb(29, 155, 240, 0.612);
-  --accent-focusedD: rgb(29, 155, 240, 0.200);
+  --PGBackgroundD: rgb(15, 20, 25);
+  --PGBackground2D: rgb(23, 32, 42);
+  --PGTextBackgroundD: #192734;
+  --PGColorTextD: rgb(221, 227, 240);
+  --accentD: rgb(29, 161, 242);
+  --accent-hoverD: rgba(29,161,242, 0.977);
+  --accent-selectedD: rgba(29,161,242, 0.612);
+  --accent-focusedD: rgba(29,161,242, 0.200);
 }

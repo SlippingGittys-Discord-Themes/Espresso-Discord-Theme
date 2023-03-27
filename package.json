@@ -1,0 +1,25 @@
+{
+  "name": "theme-template",
+  "version": "1.0.0",
+  "description": "A theme template",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "build": "replugged build theme",
+    "watch": "replugged build theme --watch",
+    "bundle": "replugged bundle theme",
+    "lint": "prettier ./src --check",
+    "lint:fix": "prettier ./src --write"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/config-default": "^2.8.3",
+    "@parcel/core": "^2.8.3",
+    "@types/node": "^18.11.15",
+    "prettier": "^2.8.1",
+    "replugged": "^4.2.1"
+  }
+}

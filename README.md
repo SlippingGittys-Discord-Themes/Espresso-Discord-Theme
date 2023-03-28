@@ -1,3 +1,5 @@
+<h1 align="center">Discord Espresso</h1>
+<p align="center">A soft and colorful Discord theme </p>
 <img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/221325728-f1fd1419-11d4-4cdb-b4ac-e61709dea5f0.png">
 
 

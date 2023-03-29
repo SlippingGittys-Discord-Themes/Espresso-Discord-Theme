@@ -13,7 +13,7 @@
 ## Turquoise
 ![image](https://user-images.githubusercontent.com/76500838/205454849-0cf7bbbd-3f58-4d0e-a60f-da2d75584a92.png)
 
-## Lavender
+## Lilac
 ![image](https://user-images.githubusercontent.com/76500838/205454611-ffa55a34-05af-4c0f-9193-a926678ef8a4.png)
 
 ## Tan

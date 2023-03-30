@@ -1,19 +1,19 @@
 <h1 align="center">Discord Espresso</h1>
-<p align="center">Tailor it to your taste ☕</p>
+<p align="center">Tailor to Your Taste ☕</p>
 <img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/228941344-a0294c30-736d-45c0-98da-9a386c7565cb.png">
 
 
 <details>
 <summary>Click to show more color schemes 🎨</summary>
 
-## Newspaper
-![image](https://user-images.githubusercontent.com/76500838/205516297-2230a211-9a46-42ae-a078-16a220780ed7.png)
-
 ## Turquoise
 ![image](https://user-images.githubusercontent.com/76500838/205454849-0cf7bbbd-3f58-4d0e-a60f-da2d75584a92.png)
 
 ## Lilac
 ![image](https://user-images.githubusercontent.com/76500838/205454611-ffa55a34-05af-4c0f-9193-a926678ef8a4.png)
+
+## Newspaper
+![image](https://user-images.githubusercontent.com/76500838/205516297-2230a211-9a46-42ae-a078-16a220780ed7.png)
 
 ## Tan
 ![image](https://user-images.githubusercontent.com/76500838/205454527-57a32aca-fed0-47d8-8ad1-37df745fb1cc.png)

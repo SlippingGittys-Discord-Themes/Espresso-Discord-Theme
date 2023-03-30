@@ -1,0 +1,23 @@
+:root {
+  --PGBackground: rgb(236, 224, 208);
+  --PGBackground2: rgb(219, 192, 171);
+  --PGTextBackground: rgb(240, 210, 187);
+  --accent: rgb(132, 66, 19);
+  --accent-hover: rgba(132, 66, 19, 0.977);
+  --accent-selected: rgb(132, 66, 19, 0.612);
+  --accent-focused: rgb(132, 66, 19, 0.2);
+}
+
+.theme-light .channelName-3KPsGw,
+.theme-light .subtitle-3PyFgf,
+.theme-light .topic-11NuQZ,
+.theme-light .expandable-3CaLeS,
+.theme-light .item-1OdjEX,
+.theme-light .placeholder-1rCBhr,
+.theme-light .container-q97qHp {
+  color: var(--accent-selected);
+}
+
+.theme-light .title-17SveM {
+  color: var(--accent);
+}

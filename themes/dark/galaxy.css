@@ -1,0 +1,23 @@
+:root {
+  --PGBackgroundD: rgb(4, 2, 14);
+  --PGBackground2D: rgb(10, 13, 43);
+  --PGBackground3D: rgb(5,8,12);
+  --PGTextBackgroundD: rgb(10, 13, 43);
+  --PGColorTextD: rgb(205, 220, 255);
+  --accentD: rgb(108, 99, 255);
+  --accent-hoverD: rgba(108, 99, 255, 0.977);
+  --accent-selectedD: rgb(108, 99, 255, 0.612);
+  --accent-focusedD: rgb(108, 99, 255, 0.2);
+}
+
+.theme-dark .name-28HaxV {
+  color: var(--accent-selectedD)
+}
+
+.theme-dark .contentWrapper-3vHNP2, .theme-dark .popout-3gby1q, .theme-dark .drawerSizingWrapper-1txdWG, .theme-dark .quickswitcher-pKcM9U {
+  background-color: var(--PGBackgroundD)
+}
+
+.theme-dark .membersGroup-2eiWxl, .theme-dark .label-3CEiKJ {
+  color: var(--PGColorTextD);
+}

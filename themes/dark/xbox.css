@@ -1,0 +1,29 @@
+:root {
+  --PGBackgroundD: rgb(1, 7, 0, 0.300);
+  --PGBackground2D: rgb(3, 18, 0, 0.800);
+  --PGBackground3D: rgb(5, 8, 12);
+  --PGTextBackgroundD: rgba(17, 43, 10, 0.469);
+  --PGColorTextD: rgb(128, 255, 204);
+  --accentD: rgb(93, 181, 76);
+  --accent-hoverD: rgba(93, 181, 76, 0.977);
+  --accent-selectedD: rgb(93, 181, 76, 0.612);
+  --accent-focusedD: rgb(93, 181, 76, 0.2);
+}
+
+body {
+  background-image: url("https://external-preview.redd.it/slItyxrr2AyWrertYdkZC_e4QcSIjgc9byMV5U9iMB8.png?format=pjpg&auto=webp&s=aef9432d24a370a7730865dcd1ce283ba8f48dff");
+  background-size: cover;
+}
+
+
+.theme-dark .name-28HaxV {
+  color: var(--accent-selectedD)
+}
+
+.theme-dark .contentWrapper-3vHNP2, .theme-dark .popout-3gby1q, .theme-dark .drawerSizingWrapper-1txdWG, .theme-dark .quickswitcher-pKcM9U {
+  background-color: var(--PGBackgroundD)
+}
+
+.theme-dark .membersGroup-2eiWxl, .theme-dark .label-3CEiKJ {
+  color: var(--PGColorTextD);
+}

@@ -1,0 +1,26 @@
+:root {
+  --PGBackgroundD: rgba(18, 15, 18, 0.200);
+  --PGBackground2D: rgba(51, 41, 50, 0.500);
+  --PGTextBackgroundD: rgb(51, 41, 50);
+  --PGColorTextD: rgb(201, 201, 201);
+  --accentD: rgb(231, 146, 197);
+  --accent-hoverD: rgb(231, 146, 197, 0.977);
+  --accent-selectedD: rgb(231, 146, 197, 0.612);
+  --accent-focusedD: rgb(231, 146, 197, 0.200);
+}
+
+body {
+  background-image: url("https://media.discordapp.net/attachments/1026554757948637305/1042919699626852362/rosiepink.png");
+}
+
+.theme-dark .contentWrapper-3vHNP2, .theme-dark .popout-3gby1q, .theme-dark .drawerSizingWrapper-1txdWG, .theme-dark .quickswitcher-pKcM9U {
+  background-color: var(--PGBackgroundD)
+}
+
+.theme-dark .name-3Uvkvr, .theme-dark .chat-2ZfjoI .container-ZMc96U .title-17SveM {
+  color: var(--accentD)
+}
+
+.theme-dark .membersGroup-2eiWxl, .theme-dark .label-3CEiKJ {
+  color: var(--PGColorTextD);
+}

@@ -9,9 +9,12 @@
   --accent-focusedD: rgb(231, 146, 197, 0.200);
 }
 
+/* Background Image */
 body {
   background-image: url("https://media.discordapp.net/attachments/1026554757948637305/1042919699626852362/rosiepink.png");
 }
+
+/* Extras */
 
 .theme-dark .contentWrapper-3vHNP2, .theme-dark .popout-3gby1q, .theme-dark .drawerSizingWrapper-1txdWG, .theme-dark .quickswitcher-pKcM9U {
   background-color: var(--PGBackgroundD)

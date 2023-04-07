@@ -5,9 +5,9 @@
 }
 
 * {
-  --font-primary: Quicksand;
-  --font-display: Quicksand;
-  --font-headline: Quicksand;
+  --font-primary: "Quicksand";
+  --font-display: "Quicksand";
+  --font-headline: "Quicksand";
   text-rendering: optimizeLegibility;
   text-transform: none !important;
 }

@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+}
+
+* {
+  --font-primary: Quicksand;
+  --font-display: Quicksand;
+  --font-headline: Quicksand;
+  text-rendering: optimizeLegibility;
+  text-transform: none !important;
+}

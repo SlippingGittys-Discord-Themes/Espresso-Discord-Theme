@@ -1294,6 +1294,29 @@ code,
     color: var(--accent);
 }
 
+/* --------------------- Faux macOS Title  🖥️ -------------------
+  > Credit: Me, Myself, and I
+*/
+
+/* The faux title bar itself */
+.typeMacOS-3V4xXE {
+  position: relative;
+  width: 100%;
+  height: 35px;
+}
+  .theme-dark .typeMacOS-3V4xXE {
+    background: var(--PGBackgroundD);
+  }
+  .theme-light .typeMacOS-3V4xXE {
+    background: var(--PGBackground);
+  }
+
+/* Adujustments to accommodate for the blank space used for the stoplight*/
+.platform-osx .wrapper-1_HaEi {
+  margin: 0;
+  padding: 0;
+}
+
 /* --------------------- macOS Title Bar 🍎 🖥️ -------------------
   > See License: https://github.com/discord-extensions/macos-titlebar/blob/master/LICENSE
   > Credit: LuckFire/Hoofer/Boloped 

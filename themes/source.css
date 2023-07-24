@@ -562,7 +562,36 @@ code,
     border-radius: 16px;
 }
 
+.theme-light .modeSelected-3DmyhH .link-1_kTxV, 
+.theme-light .modeSelected-3DmyhH:hover .link-1_kTxV {
+  background-color: rgba(0, 0, 0, 0.039) !important;
+  border-left: solid 1px var(--accent);
+  transition: 0.5s;
+  border-radius: 1px;
+}
+
+.theme-light .link-1_kTxV:hover {
+  background-color: rgba(0, 0, 0, 0.039) !important;
+  border-left: solid 1px var(--accentD);
+  transition: 0.2s;
+  border-radius: 1px;
+
 /* Dark */
+.theme-dark .modeSelected-3DmyhH .link-1_kTxV, 
+.theme-dark .modeSelected-3DmyhH:hover .link-1_kTxV {
+  background-color: rgba(0, 0, 0, 0.039) !important;
+  border-left: solid 1px var(--accentD);
+  transition: 0.5s;
+  border-radius: 1px;
+}
+
+.theme-dark .link-1_kTxV:hover {
+  background-color: rgba(0, 0, 0, 0.039) !important;
+  border-left: solid 1px var(--accentD);
+  transition: 0.2s;
+  border-radius: 1px;
+}
+
 .theme-dark .panels-3wFtMD {
     border-radius: 15px;
     margin-bottom: 18px;

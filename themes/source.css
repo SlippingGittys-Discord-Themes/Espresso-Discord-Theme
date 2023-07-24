@@ -572,9 +572,10 @@ code,
 
 .theme-light .link-1_kTxV:hover {
   background-color: rgba(0, 0, 0, 0.039) !important;
-  border-left: solid 1px var(--accentD);
+  border-left: solid 1px var(--accent);
   transition: 0.2s;
   border-radius: 1px;
+}
 
 /* Dark */
 .theme-dark .modeSelected-3DmyhH .link-1_kTxV, 

@@ -57,8 +57,6 @@
   * Place the file in the BetterDiscord themes folder
   * Follow the instructions on Vencord's themes tab
   * Copy the text in the file, and paste it in Openasar's quick CSS text field
-* Replugged users can
-  * Open a terminal in the themes folder and type `git clone https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme`
 
 ### Browser 
  * [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/raw/main/discordEspresso.user.css)

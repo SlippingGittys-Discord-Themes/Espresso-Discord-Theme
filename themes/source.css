@@ -1299,15 +1299,15 @@ code,
 */
 
 /* The faux title bar itself */
-.typeMacOS-3V4xXE {
+.typeMacOS-zzjqOo {
   position: relative;
   width: 100%;
   height: 35px;
 }
-  .theme-dark .typeMacOS-3V4xXE {
+  .theme-dark .typeMacOS-zzjqOo {
     background: var(--PGBackgroundD);
   }
-  .theme-light .typeMacOS-3V4xXE {
+  .theme-light .typeMacOS-zzjqOo {
     background: var(--PGBackground);
   }
 

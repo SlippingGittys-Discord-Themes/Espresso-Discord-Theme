@@ -1,6 +1,6 @@
 <h1 align="center">Discord Espresso</h1>
-<p align="center">Tailor to Your Taste ☕</p>
-<img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/228941344-a0294c30-736d-45c0-98da-9a386c7565cb.png">
+<p align="center">A soft and colorful Discord Theme</p>
+<img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/221325728-f1fd1419-11d4-4cdb-b4ac-e61709dea5f0.png">
 
 
 <details>

@@ -50,6 +50,9 @@
 
 </details>
 
+## Temporary Icon Fix w/ Experiments
+<img width="856" alt="image" src="https://github.com/SlippingGittys-Discord-Themes/surCord/assets/76500838/3d4cd16c-d6aa-4c3b-8c9f-6df65462d186">
+
 ## How to use 📖
 ### Discord App
 

@@ -349,7 +349,7 @@ code,
     transition: 0.3s;
 }
 
-.unreadRelevant__44f9e {
+.unreadImportant_e8bb44 {
     background-color: var(--accent);
     width: 4px;
     border-radius: 5px 5px 5px 5px;
@@ -389,7 +389,7 @@ code,
     transition: 0.3s;
 }
 
-.theme-dark .unreadRelevant__44f9e {
+.theme-dark .unreadImportant_e8bb44 {
     background-color: var(--accentD);
     width: 4px;
     border-radius: 5px 5px 5px 5px;
@@ -473,8 +473,8 @@ code,
 }
 
 .addButtonIcon_d9a52c,
-.modeUnread_f74c03 .icon__67ab4,
-.unreadRelevant__44f9e {
+.modeUnreadImportant__35358 .icon__67ab4,
+.unreadImportant_e8bb44 {
     color: var(--accent) !important;
 }
 
@@ -482,8 +482,8 @@ code,
 .modeConnected__52a8f:hover .name__4eb92,
 .modeSelected__473f1 .name__4eb92,
 .modeSelected__473f1:hover .name__4eb92,
-.modeUnread_f74c03 .name__4eb92,
-.modeUnread_f74c03:hover .name__4eb92,
+.modeUnreadImportant__35358 .name__4eb92,
+.modeUnreadImportant__35358:hover .name__4eb92,
 .notInteractive_e31551.modeConnected__52a8f .name__4eb92,
 .notInteractive_e31551.modeSelected__473f1 .name__4eb92 {
     color: var(--accent) !important;
@@ -491,8 +491,8 @@ code,
 
 .modeSelected__473f1 .icon__67ab4,
 .modeSelected__473f1:hover .icon__67ab4,
-.modeUnread_f74c03 .icon__67ab4,
-.modeUnread_f74c03:hover .icon__67ab4,
+.modeUnreadImportant__35358 .icon__67ab4,
+.modeUnreadImportant__35358:hover .icon__67ab4,
 .mainContent__2333c .overflow__993fa,
 .mainContent__2333c {
     color: var(--accent) !important;
@@ -648,8 +648,8 @@ code,
 }
 
 .theme-dark .addButtonIcon_d9a52c,
-.theme-dark .modeUnread_f74c03 .icon__67ab4,
-.theme-dark .unreadRelevant__44f9e {
+.theme-dark .modeUnreadImportant__35358 .icon__67ab4,
+.theme-dark .unreadImportant_e8bb44 {
     color: var(--accentD) !important;
 }
 
@@ -657,8 +657,8 @@ code,
 .theme-dark .modeConnected__52a8f:hover .name__4eb92,
 .theme-dark .modeSelected__473f1 .name__4eb92,
 .theme-dark .modeSelected__473f1:hover .name__4eb92,
-.theme-dark .modeUnread_f74c03 .name__4eb92,
-.theme-dark .modeUnread_f74c03:hover .name__4eb92,
+.theme-dark .modeUnreadImportant__35358 .name__4eb92,
+.theme-dark .modeUnreadImportant__35358:hover .name__4eb92,
 .theme-dark .notInteractive_e31551.modeConnected__52a8f .name__4eb92,
 .theme-dark .notInteractive_e31551.modeSelected__473f1 .name__4eb92 {
     color: var(--accentD) !important;
@@ -666,8 +666,8 @@ code,
 
 .theme-dark .modeSelected__473f1 .icon__67ab4,
 .theme-dark .modeSelected__473f1:hover .icon__67ab4,
-.theme-dark .modeUnread_f74c03 .icon__67ab4,
-.theme-dark .modeUnread_f74c03:hover .icon__67ab4,
+.theme-dark .modeUnreadImportant__35358 .icon__67ab4,
+.theme-dark .modeUnreadImportant__35358:hover .icon__67ab4,
 .theme-dark .mainContent__2333c .overflow__993fa,
 .theme-dark .mainContent__2333c {
     color: var(--accentD) !important;
@@ -783,7 +783,7 @@ code,
 
 .theme-light .barButtonMain__984b4,
 .theme-light .span_b2761b,
-.theme-light .app__00c92 button {
+.theme-light .app_de4237 button {
     color: black;
 }
 
@@ -1463,8 +1463,8 @@ code,
 
 .theme-dark .modeSelected__473f1 .icon__67ab4,
 .theme-dark .modeSelected__473f1:hover .icon__67ab4,
-.theme-dark .modeUnread_f74c03 .icon__67ab4,
-.theme-dark .modeUnread_f74c03:hover .icon__67ab4,
+.theme-dark .modeUnreadImportant__35358 .icon__67ab4,
+.theme-dark .modeUnreadImportant__35358:hover .icon__67ab4,
 .theme-dark .mainContent__2333c .overflow__993fa,
 .theme-dark .mainContent__2333c {
     color: var(--PGColorTextD) !important;
@@ -1475,8 +1475,8 @@ code,
 .theme-dark .modeConnected__52a8f:hover .name__4eb92,
 .theme-dark .modeSelected__473f1 .name__4eb92,
 .theme-dark .modeSelected__473f1:hover .name__4eb92,
-.theme-dark .modeUnread_f74c03 .name__4eb92,
-.theme-dark .modeUnread_f74c03:hover .name__4eb92,
+.theme-dark .modeUnreadImportant__35358 .name__4eb92,
+.theme-dark .modeUnreadImportant__35358:hover .name__4eb92,
 .theme-dark .notInteractive_e31551.modeConnected__52a8f .name__4eb92,
 .theme-dark .notInteractive_e31551.modeSelected__473f1 .name__4eb92,
 .theme-dark .title__84e16 {
@@ -1484,14 +1484,14 @@ code,
 }
 
 .numberBadge__40d6f,
-.unreadRelevant__44f9e,
+.unreadImportant_e8bb44,
 .newBadge__4f501,
 .item_f9d377 {
     background: var(--accent) !important;
 }
 
 .theme-dark .numberBadge__40d6f,
-.theme-dark .unreadRelevant__44f9e,
+.theme-dark .unreadImportant_e8bb44,
 .theme-dark .newBadge__4f501,
 .theme-dark .item_f9d377 {
     background: var(--accentD) !important;

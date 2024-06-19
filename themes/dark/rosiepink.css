@@ -16,14 +16,14 @@ body {
 
 /* Extras */
 
-.theme-dark .contentWrapper-3vHNP2, .theme-dark .popout-3gby1q, .theme-dark .drawerSizingWrapper-1txdWG, .theme-dark .quickswitcher-pKcM9U {
+.theme-dark .contentWrapper_af5dbb, .theme-dark .popout_e6af9c, .theme-dark .drawerSizingWrapper_af5dbb, .theme-dark .quickswitcher_f4e139 {
   background-color: var(--PGBackgroundD)
 }
 
-.theme-dark .name-3Uvkvr, .theme-dark .chat-2ZfjoI .container-ZMc96U .title-17SveM {
+.theme-dark .name_fd6364, .theme-dark .chat_a7d72e .container_e44302 .title_e44302 {
   color: var(--accentD)
 }
 
-.theme-dark .membersGroup-2eiWxl, .theme-dark .label-3CEiKJ {
+.theme-dark .membersGroup_cbd271, .theme-dark .label_d90b3d {
   color: var(--PGColorTextD);
 }

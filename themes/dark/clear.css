@@ -33,13 +33,13 @@ body {
 
 /* Extra garbage that makes this theme look nicer, feel free to ignore or edit idfc */
 
-.theme-dark .name_d8bfb3 {
+.theme-dark .name__2ea32 {
   color: var(--accent-selectedD)
 }
-.theme-dark .contentWrapper_af5dbb, .theme-dark .popout_e6af9c, .theme-dark .drawerSizingWrapper_af5dbb, .theme-dark .quickswitcher_f4e139 {
+.theme-dark .contentWrapper__08434, .theme-dark .popout_cba592, .theme-dark .drawerSizingWrapper__08434, .theme-dark .quickswitcher_ac6cb0 {
     background-color: var(--PGBackground3D)
 }
-.theme-dark .panels_a4d4d9 {
+.theme-dark .panels_c48ade {
   border-radius: 0px;
   margin-bottom: 0px;
   margin-right: 0px;

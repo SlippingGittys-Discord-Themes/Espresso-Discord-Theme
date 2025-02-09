@@ -14,10 +14,10 @@ body {
   background-image: url("https://files.catbox.moe/09fgs6.png");
  }
 
-.theme-dark .name_d8bfb3 {
+.theme-dark .name__2ea32 {
   color: var(--accent-selectedD)
 }
 
-.theme-dark .contentWrapper_af5dbb, .theme-dark .popout_e6af9c, .theme-dark .drawerSizingWrapper_af5dbb, .theme-dark .quickswitcher_f4e139 {
+.theme-dark .contentWrapper__08434, .theme-dark .popout_cba592, .theme-dark .drawerSizingWrapper__08434, .theme-dark .quickswitcher_ac6cb0 {
     background-color: var(--PGBackground3D)
 }

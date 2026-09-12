@@ -15,23 +15,23 @@
 */
 
 
-.theme-light .panels_c48ade, .theme-light .container__9293f.themed__9293f, .theme-light .header_f37cb1, .theme-light .full-motion .searchBar__97492, .theme-light .scroller__36d07::-webkit-scrollbar-track, .theme-light .auto-2K3UW5::-webkit-scrollbar-track, .theme-light .peopleColumn__133bf::-webkit-scrollbar-track {
+.theme-light .panels__5e434, .theme-light .container__9293f.themed__9293f, .theme-light .header_f37cb1, .theme-light .full-motion .searchBar_c322aa, .theme-light .scroller__36d07::-webkit-scrollbar-track, .theme-light .auto-2K3UW5::-webkit-scrollbar-track, .theme-light .peopleColumn__133bf::-webkit-scrollbar-track {
   border: none;
   border-radius: 15px;
 }
 
-.theme-dark .panels_c48ade, .theme-dark .container__9293f.themed__9293f, .theme-dark .header_f37cb1, .theme-dark .full-motion .searchBar__97492, .theme-dark .scroller__36d07::-webkit-scrollbar-track, .theme-dark .auto-2K3UW5::-webkit-scrollbar-track, .theme-dark .peopleColumn__133bf::-webkit-scrollbar-track {
+.theme-dark .panels__5e434, .theme-dark .container__9293f.themed__9293f, .theme-dark .header_f37cb1, .theme-dark .full-motion .searchBar_c322aa, .theme-dark .scroller__36d07::-webkit-scrollbar-track, .theme-dark .auto-2K3UW5::-webkit-scrollbar-track, .theme-dark .peopleColumn__133bf::-webkit-scrollbar-track {
   border: none;
   border-radius: 15px;
 }
 
-.theme-dark .expandedFolderBackground__48112, .theme-dark .wrapper__8436d.selected_ae80f7 .childWrapper_a6ce15, .theme-dark .wrapper__8436d:hover .childWrapper_a6ce15 {
+.theme-dark .folderGroupBackground__48112, .theme-dark .wrapper__8436d.selected_ae80f7 .childWrapper_a6ce15, .theme-dark .wrapper__8436d:hover .childWrapper_a6ce15 {
   background-color: var(--PGBackground2D);
   border-radius: 15px;
 }
 
 
-.theme-light .expandedFolderBackground__48112, .theme-light .wrapper__8436d.selected_ae80f7 .childWrapper_a6ce15, .theme-light .wrapper__8436d:hover .childWrapper_a6ce15 {
+.theme-light .folderGroupBackground__48112, .theme-light .wrapper__8436d.selected_ae80f7 .childWrapper_a6ce15, .theme-light .wrapper__8436d:hover .childWrapper_a6ce15 {
   background-color: var(--PGBackground2);
   border-radius: 15px;
 }
